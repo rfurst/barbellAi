@@ -1,30 +1,67 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 23 09:29:28 2025
-
-@author: rkfurst
-"""
 import serial
-import time
 import csv
+import time
+from datetime import datetime
+import matplotlib.pyplot as plt
 
-# Connect to Arduino
-ser = serial.Serial('COM3', 115200)  # Windows: COM*, Linux: /dev/ttyUSB0
+# Configuration
+PORT = 'COM3'  # Windows: COM*, Linux: /dev/ttyUSB0000
+BAUD_RATE = 115200
+EXERCISES = {0: "deadlift", 1: "bench_press", 2: "squat"}
 
-with open('barbell_data.csv', 'w', newline='') as f:
+# Initialize
+ser = serial.Serial(PORT, BAUD_RATE, timeout=2)
+exercise_id = int(input(f"Enter exercise ID {list(EXERCISES.keys())}: "))
+filename = f"{EXERCISES[exercise_id]}_{datetime.now().strftime('%Y%m%d_%H%M')}.csv"
+
+# Setup plot
+plt.ion()
+fig, ax = plt.subplots()
+timestamps, ax_values = [], []
+line, = ax.plot([], [], 'r-')
+ax.set_title("Real-Time Acceleration (X-Axis)")
+
+with open(filename, 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(['ax', 'ay', 'az', 'gx', 'gy', 'gz', 'rep_label', 'exercise_id'])
+    writer.writerow(['timestamp', 'ax', 'ay', 'az', 'gx', 'gy', 'gz', 'rep_phase'])
     
     try:
+        start_time = time.time()
+        rep_phase = 0  # 0=rest, 1=concentric, 2=eccentric
+        
         while True:
-            input("Press Enter to start recording a rep...")
-            start_time = time.time()
+            # User control
+            cmd = input("Press 's' (start rep), 'e' (end rep), 'q' (quit): ").lower()
+            if cmd == 'q': break
+            rep_phase = 1 if cmd == 's' else 2 if cmd == 'e' else rep_phase
             
-            while time.time() - start_time < 5:  # Record 5s per rep
-                line = ser.readline().decode().strip()
-                if line:
-                    ax, ay, az, gx, gy, gz = map(float, line.split(','))
-                    # Label: 1=rep active, 0=rest; exercise_id (0=deadlift, 1=bench, etc.)
-                    writer.writerow([ax, ay, az, gx, gy, gz, 1, 0])  
+            # Read serial
+            line = ser.readline().decode().strip()
+            if not line: continue
+            
+            # Process data
+            try:
+                values = list(map(float, line.split(',')))
+                if len(values) != 6: continue
+            except:
+                print(f"Bad data: {line}")
+                continue
+            
+            # Log and plot
+            timestamp = time.time() - start_time
+            writer.writerow([timestamp, *values, rep_phase])
+            
+            timestamps.append(timestamp)
+            ax_values.append(values[0])
+            line.set_xdata(timestamps)
+            line.set_ydata(ax_values)
+            ax.relim()
+            ax.autoscale_view()
+            fig.canvas.draw()
+            fig.canvas.flush_events()
+            
     except KeyboardInterrupt:
+        pass
+    finally:
         ser.close()
+        print(f"Data saved to {filename}")
