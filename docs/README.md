@@ -77,6 +77,7 @@ BarbellAI/
 | Matthew Pacas    | Founder/Tech Lead           | Admin             |
 | Jacob Handloser  | Founder/Business Development| Admin             |
 | Ruben Furst      | Co-Tech Lead                | Read/Write        |
+| Aidan O'Boyle    | Scribe                      | Read/Write        |
 
 ### Workflow
 1. **Branching**: Use `feature/` or `bugfix/` prefixes.  
