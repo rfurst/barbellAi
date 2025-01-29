@@ -74,10 +74,10 @@ BarbellAI/
 ### Roles & Access
 | Name             | Role                        | Permissions       |
 |------------------|-----------------------------|-------------------|
-| Matthew Pacas    | Founder/Tech Lead           | Admin             |
-| Jacob Handloser  | Founder/Business Development| Admin             |
-| Ruben Furst      | Co-Tech Lead                | Read/Write        |
-| Aidan O'Boyle    | Scribe                      | Read/Write        |
+| Matthew Pacas    | CEO                         | Admin             |
+| Jacob Handloser  | CMO                         | Read/Write        |
+| Ruben Furst      | CTO                         | Read/Write        |
+| Aidan O'Boyle    | CFO                         | Read/Write        |
 
 ### Workflow
 1. **Branching**: Use `feature/` or `bugfix/` prefixes.  
