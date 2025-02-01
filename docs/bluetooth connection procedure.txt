@@ -1,0 +1,7 @@
+arduino BLE set up
+upload arduino code via micro usb
+ruben work laptop 1303
+open anaconda prompt
+\Users\rkfurst> conda activate spyder-env
+(spyder-env) Users\rkfurst> cd \Downloads\BarbellAI
+(spyder-env) Users\rkfurst\Downloads\BarbellAI> python velocity_integrator.py
