@@ -20,7 +20,7 @@ OUTPUT_CSV   = "imu_data.csv"
 #   [ 4 bytes gz (float) ]
 SAMPLE_SIZE_BYTES = 28
 
-# We'll accumulate partial data across notifications
+# Global buffer
 leftover_bytes = b''
 
 async def main():
@@ -46,7 +46,7 @@ async def main():
             'sender' is the characteristic handle,
             'data' is a bytes-like object with the raw payload.
             """
-            nonlocal leftover_bytes
+            global leftover_bytes
 
             # Combine leftover + newly received data
             buffer = leftover_bytes + data
