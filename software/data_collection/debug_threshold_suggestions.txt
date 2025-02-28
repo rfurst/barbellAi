@@ -1,0 +1,14 @@
+=== BARBELL TRACKING THRESHOLD SUGGESTIONS ===
+
+STILLNESS DETECTION:
+- Suggested STILLNESS_ACC_STD: 0.0202 m/s²
+- Suggested STILLNESS_GYRO_STD: 0.0155 rad/s
+- Suggested STILLNESS_GRAVITY_ERROR: 0.1173
+
+DEADLIFT DETECTION:
+- During rolling, max vertical acceleration: 13.5810 m/s²
+- Suggested DEADLIFT_START_ACC_THRESHOLD: 16.2972 m/s²
+- No velocity peaks detected for threshold analysis
+
+IMPORTANT: These are algorithmic suggestions based on this specific dataset.
+Manual adjustment and validation with multiple datasets is recommended.

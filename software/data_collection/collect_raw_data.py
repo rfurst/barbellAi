@@ -7,7 +7,7 @@ from bleak import BleakScanner, BleakClient
 DEVICE_NAME = "Nano33_RawIMU"
 SERVICE_UUID = "12340000-0000-0000-0000-1234567890AB"
 CHAR_UUID    = "12340001-0000-0000-0000-1234567890AB"
-OUTPUT_CSV   = "imu_data.csv"
+OUTPUT_CSV   = "imu_data_Farm1.csv"
 # -----------------------------------------------------------------------
 
 # Each IMU sample is 28 bytes total:
