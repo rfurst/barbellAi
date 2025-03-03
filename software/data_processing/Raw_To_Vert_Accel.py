@@ -30,7 +30,7 @@ import matplotlib.pyplot as plt
 # ------------------------ USER TUNABLES -------------------------------------
 ##############################################################################
 
-INPUT_CSV  = "imu_data.csv"
+INPUT_CSV  = "imu_data_Farm1.csv"
 VERT_CSV   = "vertical_output.csv"
 DEBUG_CSV  = "debug_output.csv"
 

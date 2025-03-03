@@ -1,0 +1,30 @@
+{
+  "reps": [
+    {
+      "rep_number": 1,
+      "peak_velocity": 1.04
+    },
+    {
+      "rep_number": 2,
+      "peak_velocity": 1.09
+    },
+    {
+      "rep_number": 3,
+      "peak_velocity": 1.09
+    },
+    {
+      "rep_number": 4,
+      "peak_velocity": 1.06
+    },
+    {
+      "rep_number": 5,
+      "peak_velocity": 1.08
+    },
+    {
+      "rep_number": 6,
+      "peak_velocity": 1.06
+    }
+  ],
+  "source_imu_file": "imu_data_Farm5.csv",
+  "source_velocity_file": "velocity_validated_imu_data_Farm5.xlsx"
+}

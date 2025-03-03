@@ -1,0 +1,26 @@
+{
+  "reps": [
+    {
+      "rep_number": 1,
+      "peak_velocity": 1.18
+    },
+    {
+      "rep_number": 2,
+      "peak_velocity": 1.3
+    },
+    {
+      "rep_number": 3,
+      "peak_velocity": 1.26
+    },
+    {
+      "rep_number": 4,
+      "peak_velocity": 1.23
+    },
+    {
+      "rep_number": 5,
+      "peak_velocity": 1.21
+    }
+  ],
+  "source_imu_file": "imu_data_Farm11Ruben_mystery3.csv",
+  "source_velocity_file": "velocity_validated_imu_data_Farm11Ruben_mystery3.xlsx"
+}

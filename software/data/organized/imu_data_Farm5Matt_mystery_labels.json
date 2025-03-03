@@ -1,0 +1,34 @@
+{
+  "reps": [
+    {
+      "rep_number": 1,
+      "peak_velocity": 1.43
+    },
+    {
+      "rep_number": 2,
+      "peak_velocity": 1.7
+    },
+    {
+      "rep_number": 3,
+      "peak_velocity": 1.85
+    },
+    {
+      "rep_number": 4,
+      "peak_velocity": 1.64
+    },
+    {
+      "rep_number": 5,
+      "peak_velocity": 1.62
+    },
+    {
+      "rep_number": 6,
+      "peak_velocity": 1.7
+    },
+    {
+      "rep_number": 7,
+      "peak_velocity": 1.55
+    }
+  ],
+  "source_imu_file": "imu_data_Farm5Matt_mystery.csv",
+  "source_velocity_file": "velocity_validated_imu_data_Farm5Matt_mystery.xlsx"
+}

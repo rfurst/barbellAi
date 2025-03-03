@@ -1,0 +1,42 @@
+{
+  "reps": [
+    {
+      "rep_number": 1,
+      "peak_velocity": 1.23
+    },
+    {
+      "rep_number": 2,
+      "peak_velocity": 1.27
+    },
+    {
+      "rep_number": 3,
+      "peak_velocity": 1.19
+    },
+    {
+      "rep_number": 4,
+      "peak_velocity": 1.15
+    },
+    {
+      "rep_number": 5,
+      "peak_velocity": 1.23
+    },
+    {
+      "rep_number": 6,
+      "peak_velocity": 1.17
+    },
+    {
+      "rep_number": 7,
+      "peak_velocity": 1.18
+    },
+    {
+      "rep_number": 8,
+      "peak_velocity": 1.13
+    },
+    {
+      "rep_number": 9,
+      "peak_velocity": 1.35
+    }
+  ],
+  "source_imu_file": "imu_data_Farm10Ruben_mystery2.csv",
+  "source_velocity_file": "velocity_validated_imu_data_Farm10Ruben_mystery2.xlsx"
+}
