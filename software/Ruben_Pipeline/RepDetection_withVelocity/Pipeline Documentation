@@ -1,0 +1,7 @@
+1. Collect_raw_data.py
+
+2. python vertical_acceleration_calculator_v2.py imu_data_Farm1.csv --o farm1_results.csv
+
+3. python timestamp_output_v3.py farm13_results.csv --target-rep-count 6 --export-format both
+
+4. python main.py --mode all
