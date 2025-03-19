@@ -1,0 +1,4352 @@
+[
+  {
+    "file_name": "farm12_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 9.048,
+      "end_time": 9.585,
+      "peak_time": 9.161,
+      "duration": 0.5370000000000008,
+      "peak_acceleration": 0.7386179840829848,
+      "start_index": 441,
+      "end_index": 465,
+      "peak_index": 444
+    },
+    "metadata": {
+      "source_file": "farm12_results.csv",
+      "processing_date": "2025-03-09 19:44:30",
+      "sampling_rate": 48.08009909165979,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.003862660944206008,
+      "filter_order": 3,
+      "detection_threshold": 0.4496976204443562,
+      "baseline_threshold": 0.05133145872752325,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6979475472745339
+    }
+  },
+  {
+    "file_name": "farm12_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 13.31,
+      "end_time": 13.822,
+      "peak_time": 13.599,
+      "duration": 0.5119999999999987,
+      "peak_acceleration": 0.5894245599141217,
+      "start_index": 642,
+      "end_index": 668,
+      "peak_index": 657
+    },
+    "metadata": {
+      "source_file": "farm12_results.csv",
+      "processing_date": "2025-03-09 19:44:30",
+      "sampling_rate": 48.08009909165979,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.003862660944206008,
+      "filter_order": 3,
+      "detection_threshold": 0.4496976204443562,
+      "baseline_threshold": 0.05133145872752325,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6979475472745339
+    }
+  },
+  {
+    "file_name": "farm12_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 18.133,
+      "end_time": 18.7,
+      "peak_time": 18.439,
+      "duration": 0.5670000000000002,
+      "peak_acceleration": 0.44508429929946486,
+      "start_index": 871,
+      "end_index": 897,
+      "peak_index": 885
+    },
+    "metadata": {
+      "source_file": "farm12_results.csv",
+      "processing_date": "2025-03-09 19:44:30",
+      "sampling_rate": 48.08009909165979,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.003862660944206008,
+      "filter_order": 3,
+      "detection_threshold": 0.4496976204443562,
+      "baseline_threshold": 0.05133145872752325,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6979475472745339
+    }
+  },
+  {
+    "file_name": "farm12_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 23.934,
+      "end_time": 24.404,
+      "peak_time": 24.089,
+      "duration": 0.46999999999999886,
+      "peak_acceleration": 0.41930550003791417,
+      "start_index": 1146,
+      "end_index": 1166,
+      "peak_index": 1152
+    },
+    "metadata": {
+      "source_file": "farm12_results.csv",
+      "processing_date": "2025-03-09 19:44:30",
+      "sampling_rate": 48.08009909165979,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.003862660944206008,
+      "filter_order": 3,
+      "detection_threshold": 0.4496976204443562,
+      "baseline_threshold": 0.05133145872752325,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6979475472745339
+    }
+  },
+  {
+    "file_name": "farm12_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 28.966,
+      "end_time": 29.532,
+      "peak_time": 29.169,
+      "duration": 0.565999999999999,
+      "peak_acceleration": 0.47678607533882617,
+      "start_index": 1391,
+      "end_index": 1416,
+      "peak_index": 1402
+    },
+    "metadata": {
+      "source_file": "farm12_results.csv",
+      "processing_date": "2025-03-09 19:44:30",
+      "sampling_rate": 48.08009909165979,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.003862660944206008,
+      "filter_order": 3,
+      "detection_threshold": 0.4496976204443562,
+      "baseline_threshold": 0.05133145872752325,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6979475472745339
+    }
+  },
+  {
+    "file_name": "farm12_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 33.98,
+      "end_time": 34.597,
+      "peak_time": 34.301,
+      "duration": 0.6170000000000044,
+      "peak_acceleration": 0.3904308984586147,
+      "start_index": 1629,
+      "end_index": 1658,
+      "peak_index": 1643
+    },
+    "metadata": {
+      "source_file": "farm12_results.csv",
+      "processing_date": "2025-03-09 19:44:30",
+      "sampling_rate": 48.08009909165979,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.003862660944206008,
+      "filter_order": 3,
+      "detection_threshold": 0.4496976204443562,
+      "baseline_threshold": 0.05133145872752325,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6979475472745339
+    }
+  },
+  {
+    "file_name": "farm12_results",
+    "rep_number": 7,
+    "concentric_phase": {
+      "start_time": 40.182,
+      "end_time": 40.724,
+      "peak_time": 40.459,
+      "duration": 0.5419999999999945,
+      "peak_acceleration": 0.5108916982416435,
+      "start_index": 1925,
+      "end_index": 1952,
+      "peak_index": 1939
+    },
+    "metadata": {
+      "source_file": "farm12_results.csv",
+      "processing_date": "2025-03-09 19:44:30",
+      "sampling_rate": 48.08009909165979,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.003862660944206008,
+      "filter_order": 3,
+      "detection_threshold": 0.4496976204443562,
+      "baseline_threshold": 0.05133145872752325,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6979475472745339
+    }
+  },
+  {
+    "file_name": "farm13_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 7.98,
+      "end_time": 8.498,
+      "peak_time": 8.095,
+      "duration": 0.5179999999999989,
+      "peak_acceleration": 0.6849984085722197,
+      "start_index": 388,
+      "end_index": 412,
+      "peak_index": 394
+    },
+    "metadata": {
+      "source_file": "farm13_results.csv",
+      "processing_date": "2025-03-10 11:23:40",
+      "sampling_rate": 46.43073200241984,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.00390625,
+      "filter_order": 3,
+      "detection_threshold": 0.47163326415180296,
+      "baseline_threshold": 0.05277525537262569,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8200000000000001
+    }
+  },
+  {
+    "file_name": "farm13_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 8.872,
+      "end_time": 9.437,
+      "peak_time": 9.161,
+      "duration": 0.5649999999999995,
+      "peak_acceleration": 0.4370233713543091,
+      "start_index": 428,
+      "end_index": 455,
+      "peak_index": 444
+    },
+    "metadata": {
+      "source_file": "farm13_results.csv",
+      "processing_date": "2025-03-10 11:23:40",
+      "sampling_rate": 46.43073200241984,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.00390625,
+      "filter_order": 3,
+      "detection_threshold": 0.47163326415180296,
+      "baseline_threshold": 0.05277525537262569,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8200000000000001
+    }
+  },
+  {
+    "file_name": "farm13_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 15.355,
+      "end_time": 15.743,
+      "peak_time": 15.523,
+      "duration": 0.3879999999999999,
+      "peak_acceleration": 0.794779387079298,
+      "start_index": 731,
+      "end_index": 751,
+      "peak_index": 739
+    },
+    "metadata": {
+      "source_file": "farm13_results.csv",
+      "processing_date": "2025-03-10 11:23:40",
+      "sampling_rate": 46.43073200241984,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.00390625,
+      "filter_order": 3,
+      "detection_threshold": 0.47163326415180296,
+      "baseline_threshold": 0.05277525537262569,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8200000000000001
+    }
+  },
+  {
+    "file_name": "farm13_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 20.828,
+      "end_time": 21.444,
+      "peak_time": 21.165,
+      "duration": 0.6159999999999997,
+      "peak_acceleration": 0.41668587895045023,
+      "start_index": 983,
+      "end_index": 1008,
+      "peak_index": 996
+    },
+    "metadata": {
+      "source_file": "farm13_results.csv",
+      "processing_date": "2025-03-10 11:23:40",
+      "sampling_rate": 46.43073200241984,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.00390625,
+      "filter_order": 3,
+      "detection_threshold": 0.47163326415180296,
+      "baseline_threshold": 0.05277525537262569,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8200000000000001
+    }
+  },
+  {
+    "file_name": "farm13_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 25.281,
+      "end_time": 25.838,
+      "peak_time": 25.571,
+      "duration": 0.5570000000000022,
+      "peak_acceleration": 0.49645606752821364,
+      "start_index": 1184,
+      "end_index": 1212,
+      "peak_index": 1199
+    },
+    "metadata": {
+      "source_file": "farm13_results.csv",
+      "processing_date": "2025-03-10 11:23:40",
+      "sampling_rate": 46.43073200241984,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.00390625,
+      "filter_order": 3,
+      "detection_threshold": 0.47163326415180296,
+      "baseline_threshold": 0.05277525537262569,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8200000000000001
+    }
+  },
+  {
+    "file_name": "farm13_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 28.305,
+      "end_time": 28.955,
+      "peak_time": 28.457,
+      "duration": 0.6499999999999986,
+      "peak_acceleration": 0.24617231919420712,
+      "start_index": 1331,
+      "end_index": 1357,
+      "peak_index": 1339
+    },
+    "metadata": {
+      "source_file": "farm13_results.csv",
+      "processing_date": "2025-03-10 11:23:40",
+      "sampling_rate": 46.43073200241984,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.00390625,
+      "filter_order": 3,
+      "detection_threshold": 0.47163326415180296,
+      "baseline_threshold": 0.05277525537262569,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8200000000000001
+    }
+  },
+  {
+    "file_name": "farm14_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 3.111,
+      "end_time": 3.578,
+      "peak_time": 3.199,
+      "duration": 0.46699999999999964,
+      "peak_acceleration": 0.7796649984074899,
+      "start_index": 159,
+      "end_index": 183,
+      "peak_index": 163
+    },
+    "metadata": {
+      "source_file": "farm14_results.csv",
+      "processing_date": "2025-03-10 11:24:31",
+      "sampling_rate": 47.020941332298065,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010194174757281554,
+      "filter_order": 3,
+      "detection_threshold": 0.5336603229256025,
+      "baseline_threshold": 0.04181773904726086,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6320482879420118
+    }
+  },
+  {
+    "file_name": "farm14_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 8.719,
+      "end_time": 9.204,
+      "peak_time": 8.986,
+      "duration": 0.4850000000000012,
+      "peak_acceleration": 0.44803408457962457,
+      "start_index": 426,
+      "end_index": 449,
+      "peak_index": 439
+    },
+    "metadata": {
+      "source_file": "farm14_results.csv",
+      "processing_date": "2025-03-10 11:24:31",
+      "sampling_rate": 47.020941332298065,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010194174757281554,
+      "filter_order": 3,
+      "detection_threshold": 0.5336603229256025,
+      "baseline_threshold": 0.04181773904726086,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6320482879420118
+    }
+  },
+  {
+    "file_name": "farm14_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 15.153,
+      "end_time": 15.657,
+      "peak_time": 15.29,
+      "duration": 0.5039999999999996,
+      "peak_acceleration": 0.5663402111385384,
+      "start_index": 733,
+      "end_index": 758,
+      "peak_index": 740
+    },
+    "metadata": {
+      "source_file": "farm14_results.csv",
+      "processing_date": "2025-03-10 11:24:31",
+      "sampling_rate": 47.020941332298065,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010194174757281554,
+      "filter_order": 3,
+      "detection_threshold": 0.5336603229256025,
+      "baseline_threshold": 0.04181773904726086,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6320482879420118
+    }
+  },
+  {
+    "file_name": "farm14_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 21.51,
+      "end_time": 21.961,
+      "peak_time": 21.697,
+      "duration": 0.45099999999999696,
+      "peak_acceleration": 0.49922958185766064,
+      "start_index": 1019,
+      "end_index": 1039,
+      "peak_index": 1029
+    },
+    "metadata": {
+      "source_file": "farm14_results.csv",
+      "processing_date": "2025-03-10 11:24:31",
+      "sampling_rate": 47.020941332298065,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010194174757281554,
+      "filter_order": 3,
+      "detection_threshold": 0.5336603229256025,
+      "baseline_threshold": 0.04181773904726086,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6320482879420118
+    }
+  },
+  {
+    "file_name": "farm14_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 28.486,
+      "end_time": 29.002,
+      "peak_time": 28.691,
+      "duration": 0.5159999999999982,
+      "peak_acceleration": 0.5843080301590612,
+      "start_index": 1348,
+      "end_index": 1368,
+      "peak_index": 1358
+    },
+    "metadata": {
+      "source_file": "farm14_results.csv",
+      "processing_date": "2025-03-10 11:24:31",
+      "sampling_rate": 47.020941332298065,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010194174757281554,
+      "filter_order": 3,
+      "detection_threshold": 0.5336603229256025,
+      "baseline_threshold": 0.04181773904726086,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6320482879420118
+    }
+  },
+  {
+    "file_name": "farm14_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 35.298,
+      "end_time": 35.792,
+      "peak_time": 35.471,
+      "duration": 0.4939999999999998,
+      "peak_acceleration": 0.49344432950618583,
+      "start_index": 1660,
+      "end_index": 1682,
+      "peak_index": 1669
+    },
+    "metadata": {
+      "source_file": "farm14_results.csv",
+      "processing_date": "2025-03-10 11:24:31",
+      "sampling_rate": 47.020941332298065,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010194174757281554,
+      "filter_order": 3,
+      "detection_threshold": 0.5336603229256025,
+      "baseline_threshold": 0.04181773904726086,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6320482879420118
+    }
+  },
+  {
+    "file_name": "farm15_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 2.08,
+      "end_time": 2.499,
+      "peak_time": 2.183,
+      "duration": 0.41900000000000004,
+      "peak_acceleration": 1.1240141142686721,
+      "start_index": 105,
+      "end_index": 126,
+      "peak_index": 110
+    },
+    "metadata": {
+      "source_file": "farm15_results.csv",
+      "processing_date": "2025-03-10 11:25:14",
+      "sampling_rate": 44.57971533434787,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.009634684865515858,
+      "filter_order": 3,
+      "detection_threshold": 0.6318058870685517,
+      "baseline_threshold": 0.03722838384073626,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm15_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 8.037,
+      "end_time": 8.498,
+      "peak_time": 8.221,
+      "duration": 0.4609999999999985,
+      "peak_acceleration": 0.7579299610938414,
+      "start_index": 355,
+      "end_index": 376,
+      "peak_index": 364
+    },
+    "metadata": {
+      "source_file": "farm15_results.csv",
+      "processing_date": "2025-03-10 11:25:14",
+      "sampling_rate": 44.57971533434787,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.009634684865515858,
+      "filter_order": 3,
+      "detection_threshold": 0.6318058870685517,
+      "baseline_threshold": 0.03722838384073626,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm15_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 15.578,
+      "end_time": 16.079,
+      "peak_time": 15.813,
+      "duration": 0.5010000000000012,
+      "peak_acceleration": 0.5953651751124697,
+      "start_index": 690,
+      "end_index": 709,
+      "peak_index": 699
+    },
+    "metadata": {
+      "source_file": "farm15_results.csv",
+      "processing_date": "2025-03-10 11:25:14",
+      "sampling_rate": 44.57971533434787,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.009634684865515858,
+      "filter_order": 3,
+      "detection_threshold": 0.6318058870685517,
+      "baseline_threshold": 0.03722838384073626,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm15_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 22.826,
+      "end_time": 23.311,
+      "peak_time": 22.964,
+      "duration": 0.48499999999999943,
+      "peak_acceleration": 0.8232583590860593,
+      "start_index": 1011,
+      "end_index": 1033,
+      "peak_index": 1018
+    },
+    "metadata": {
+      "source_file": "farm15_results.csv",
+      "processing_date": "2025-03-10 11:25:14",
+      "sampling_rate": 44.57971533434787,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.009634684865515858,
+      "filter_order": 3,
+      "detection_threshold": 0.6318058870685517,
+      "baseline_threshold": 0.03722838384073626,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm15_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 29.678,
+      "end_time": 30.178,
+      "peak_time": 29.777,
+      "duration": 0.5,
+      "peak_acceleration": 0.6599744154482322,
+      "start_index": 1308,
+      "end_index": 1331,
+      "peak_index": 1311
+    },
+    "metadata": {
+      "source_file": "farm15_results.csv",
+      "processing_date": "2025-03-10 11:25:14",
+      "sampling_rate": 44.57971533434787,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.009634684865515858,
+      "filter_order": 3,
+      "detection_threshold": 0.6318058870685517,
+      "baseline_threshold": 0.03722838384073626,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm15_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 37.886,
+      "end_time": 38.421,
+      "peak_time": 37.941,
+      "duration": 0.5349999999999966,
+      "peak_acceleration": 0.5046284764616403,
+      "start_index": 1677,
+      "end_index": 1700,
+      "peak_index": 1680
+    },
+    "metadata": {
+      "source_file": "farm15_results.csv",
+      "processing_date": "2025-03-10 11:25:14",
+      "sampling_rate": 44.57971533434787,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.009634684865515858,
+      "filter_order": 3,
+      "detection_threshold": 0.6318058870685517,
+      "baseline_threshold": 0.03722838384073626,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm15_results",
+    "rep_number": 7,
+    "concentric_phase": {
+      "start_time": 45.285,
+      "end_time": 45.808,
+      "peak_time": 45.469,
+      "duration": 0.5230000000000032,
+      "peak_acceleration": 0.5807012411793313,
+      "start_index": 2012,
+      "end_index": 2035,
+      "peak_index": 2021
+    },
+    "metadata": {
+      "source_file": "farm15_results.csv",
+      "processing_date": "2025-03-10 11:25:14",
+      "sampling_rate": 44.57971533434787,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.009634684865515858,
+      "filter_order": 3,
+      "detection_threshold": 0.6318058870685517,
+      "baseline_threshold": 0.03722838384073626,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm15_results",
+    "rep_number": 8,
+    "concentric_phase": {
+      "start_time": 51.656,
+      "end_time": 52.238,
+      "peak_time": 51.757,
+      "duration": 0.5820000000000007,
+      "peak_acceleration": 0.47563687847188757,
+      "start_index": 2298,
+      "end_index": 2321,
+      "peak_index": 2303
+    },
+    "metadata": {
+      "source_file": "farm15_results.csv",
+      "processing_date": "2025-03-10 11:25:14",
+      "sampling_rate": 44.57971533434787,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.009634684865515858,
+      "filter_order": 3,
+      "detection_threshold": 0.6318058870685517,
+      "baseline_threshold": 0.03722838384073626,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm16_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 3.895,
+      "end_time": 4.451,
+      "peak_time": 3.986,
+      "duration": 0.5559999999999996,
+      "peak_acceleration": 0.9148066225251253,
+      "start_index": 190,
+      "end_index": 215,
+      "peak_index": 193
+    },
+    "metadata": {
+      "source_file": "farm16_results.csv",
+      "processing_date": "2025-03-10 11:26:15",
+      "sampling_rate": 46.86984266696006,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0023464998044583495,
+      "filter_order": 3,
+      "detection_threshold": 0.671007851087731,
+      "baseline_threshold": 0.027952106760697357,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6694878438207941
+    }
+  },
+  {
+    "file_name": "farm16_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 10.726,
+      "end_time": 11.217,
+      "peak_time": 10.965,
+      "duration": 0.49099999999999966,
+      "peak_acceleration": 0.5678160773377398,
+      "start_index": 523,
+      "end_index": 545,
+      "peak_index": 532
+    },
+    "metadata": {
+      "source_file": "farm16_results.csv",
+      "processing_date": "2025-03-10 11:26:15",
+      "sampling_rate": 46.86984266696006,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0023464998044583495,
+      "filter_order": 3,
+      "detection_threshold": 0.671007851087731,
+      "baseline_threshold": 0.027952106760697357,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6694878438207941
+    }
+  },
+  {
+    "file_name": "farm16_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 15.416,
+      "end_time": 15.916,
+      "peak_time": 15.499,
+      "duration": 0.5,
+      "peak_acceleration": 0.6198214975248494,
+      "start_index": 736,
+      "end_index": 757,
+      "peak_index": 739
+    },
+    "metadata": {
+      "source_file": "farm16_results.csv",
+      "processing_date": "2025-03-10 11:26:15",
+      "sampling_rate": 46.86984266696006,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0023464998044583495,
+      "filter_order": 3,
+      "detection_threshold": 0.671007851087731,
+      "baseline_threshold": 0.027952106760697357,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6694878438207941
+    }
+  },
+  {
+    "file_name": "farm16_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 22.817,
+      "end_time": 23.247,
+      "peak_time": 22.907,
+      "duration": 0.4299999999999997,
+      "peak_acceleration": 0.661708303175711,
+      "start_index": 1072,
+      "end_index": 1090,
+      "peak_index": 1077
+    },
+    "metadata": {
+      "source_file": "farm16_results.csv",
+      "processing_date": "2025-03-10 11:26:15",
+      "sampling_rate": 46.86984266696006,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0023464998044583495,
+      "filter_order": 3,
+      "detection_threshold": 0.671007851087731,
+      "baseline_threshold": 0.027952106760697357,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6694878438207941
+    }
+  },
+  {
+    "file_name": "farm16_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 32.02,
+      "end_time": 32.429,
+      "peak_time": 32.072,
+      "duration": 0.4089999999999989,
+      "peak_acceleration": 0.7783733630700957,
+      "start_index": 1488,
+      "end_index": 1506,
+      "peak_index": 1491
+    },
+    "metadata": {
+      "source_file": "farm16_results.csv",
+      "processing_date": "2025-03-10 11:26:15",
+      "sampling_rate": 46.86984266696006,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0023464998044583495,
+      "filter_order": 3,
+      "detection_threshold": 0.671007851087731,
+      "baseline_threshold": 0.027952106760697357,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6694878438207941
+    }
+  },
+  {
+    "file_name": "farm16_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 41.909,
+      "end_time": 42.49,
+      "peak_time": 41.978,
+      "duration": 0.5810000000000031,
+      "peak_acceleration": 0.36720369494056443,
+      "start_index": 1965,
+      "end_index": 1992,
+      "peak_index": 1969
+    },
+    "metadata": {
+      "source_file": "farm16_results.csv",
+      "processing_date": "2025-03-10 11:26:15",
+      "sampling_rate": 46.86984266696006,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0023464998044583495,
+      "filter_order": 3,
+      "detection_threshold": 0.671007851087731,
+      "baseline_threshold": 0.027952106760697357,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6694878438207941
+    }
+  },
+  {
+    "file_name": "farm16_results",
+    "rep_number": 7,
+    "concentric_phase": {
+      "start_time": 44.247,
+      "end_time": 44.666,
+      "peak_time": 44.334,
+      "duration": 0.41899999999999693,
+      "peak_acceleration": 0.5713105445686363,
+      "start_index": 2077,
+      "end_index": 2092,
+      "peak_index": 2081
+    },
+    "metadata": {
+      "source_file": "farm16_results.csv",
+      "processing_date": "2025-03-10 11:26:15",
+      "sampling_rate": 46.86984266696006,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0023464998044583495,
+      "filter_order": 3,
+      "detection_threshold": 0.671007851087731,
+      "baseline_threshold": 0.027952106760697357,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6694878438207941
+    }
+  },
+  {
+    "file_name": "farm17_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 4.072,
+      "end_time": 4.556,
+      "peak_time": 4.18,
+      "duration": 0.484,
+      "peak_acceleration": 0.6863320612548028,
+      "start_index": 192,
+      "end_index": 213,
+      "peak_index": 197
+    },
+    "metadata": {
+      "source_file": "farm17_results.csv",
+      "processing_date": "2025-03-10 11:27:01",
+      "sampling_rate": 44.154511181730264,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010723860589812333,
+      "filter_order": 3,
+      "detection_threshold": 0.5352400676383253,
+      "baseline_threshold": 0.0532416660270738,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6849318822611937
+    }
+  },
+  {
+    "file_name": "farm17_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 9.756,
+      "end_time": 10.224,
+      "peak_time": 9.907,
+      "duration": 0.46799999999999997,
+      "peak_acceleration": 0.5634105975140267,
+      "start_index": 429,
+      "end_index": 452,
+      "peak_index": 436
+    },
+    "metadata": {
+      "source_file": "farm17_results.csv",
+      "processing_date": "2025-03-10 11:27:01",
+      "sampling_rate": 44.154511181730264,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010723860589812333,
+      "filter_order": 3,
+      "detection_threshold": 0.5352400676383253,
+      "baseline_threshold": 0.0532416660270738,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6849318822611937
+    }
+  },
+  {
+    "file_name": "farm17_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 15.443,
+      "end_time": 15.9,
+      "peak_time": 15.617,
+      "duration": 0.45700000000000074,
+      "peak_acceleration": 0.49417552660537206,
+      "start_index": 684,
+      "end_index": 704,
+      "peak_index": 690
+    },
+    "metadata": {
+      "source_file": "farm17_results.csv",
+      "processing_date": "2025-03-10 11:27:01",
+      "sampling_rate": 44.154511181730264,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010723860589812333,
+      "filter_order": 3,
+      "detection_threshold": 0.5352400676383253,
+      "baseline_threshold": 0.0532416660270738,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6849318822611937
+    }
+  },
+  {
+    "file_name": "farm17_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 21.965,
+      "end_time": 22.492,
+      "peak_time": 22.148,
+      "duration": 0.527000000000001,
+      "peak_acceleration": 0.6113827734586755,
+      "start_index": 969,
+      "end_index": 989,
+      "peak_index": 975
+    },
+    "metadata": {
+      "source_file": "farm17_results.csv",
+      "processing_date": "2025-03-10 11:27:01",
+      "sampling_rate": 44.154511181730264,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010723860589812333,
+      "filter_order": 3,
+      "detection_threshold": 0.5352400676383253,
+      "baseline_threshold": 0.0532416660270738,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6849318822611937
+    }
+  },
+  {
+    "file_name": "farm17_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 29.024,
+      "end_time": 29.496,
+      "peak_time": 29.227,
+      "duration": 0.47199999999999775,
+      "peak_acceleration": 0.546597615542552,
+      "start_index": 1275,
+      "end_index": 1295,
+      "peak_index": 1283
+    },
+    "metadata": {
+      "source_file": "farm17_results.csv",
+      "processing_date": "2025-03-10 11:27:01",
+      "sampling_rate": 44.154511181730264,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010723860589812333,
+      "filter_order": 3,
+      "detection_threshold": 0.5352400676383253,
+      "baseline_threshold": 0.0532416660270738,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6849318822611937
+    }
+  },
+  {
+    "file_name": "farm17_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 36.175,
+      "end_time": 36.702,
+      "peak_time": 36.355,
+      "duration": 0.527000000000001,
+      "peak_acceleration": 0.5061584800595348,
+      "start_index": 1582,
+      "end_index": 1606,
+      "peak_index": 1589
+    },
+    "metadata": {
+      "source_file": "farm17_results.csv",
+      "processing_date": "2025-03-10 11:27:01",
+      "sampling_rate": 44.154511181730264,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010723860589812333,
+      "filter_order": 3,
+      "detection_threshold": 0.5352400676383253,
+      "baseline_threshold": 0.0532416660270738,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6849318822611937
+    }
+  },
+  {
+    "file_name": "farm17_results",
+    "rep_number": 7,
+    "concentric_phase": {
+      "start_time": 42.593,
+      "end_time": 43.125,
+      "peak_time": 42.696,
+      "duration": 0.5319999999999965,
+      "peak_acceleration": 0.37268739808424534,
+      "start_index": 1883,
+      "end_index": 1906,
+      "peak_index": 1888
+    },
+    "metadata": {
+      "source_file": "farm17_results.csv",
+      "processing_date": "2025-03-10 11:27:01",
+      "sampling_rate": 44.154511181730264,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010723860589812333,
+      "filter_order": 3,
+      "detection_threshold": 0.5352400676383253,
+      "baseline_threshold": 0.0532416660270738,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6849318822611937
+    }
+  },
+  {
+    "file_name": "farm18_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 3.052,
+      "end_time": 3.419,
+      "peak_time": 3.052,
+      "duration": 0.367,
+      "peak_acceleration": 0.5770444676295405,
+      "start_index": 147,
+      "end_index": 166,
+      "peak_index": 147
+    },
+    "metadata": {
+      "source_file": "farm18_results.csv",
+      "processing_date": "2025-03-10 11:27:38",
+      "sampling_rate": 46.42091576764944,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.06127080181543117,
+      "filter_order": 3,
+      "detection_threshold": 0.5481922442480635,
+      "baseline_threshold": 0.05197226749542256,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6224319192902416
+    }
+  },
+  {
+    "file_name": "farm18_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 8.28,
+      "end_time": 8.754,
+      "peak_time": 8.434,
+      "duration": 0.4740000000000002,
+      "peak_acceleration": 0.49630248692775036,
+      "start_index": 393,
+      "end_index": 417,
+      "peak_index": 401
+    },
+    "metadata": {
+      "source_file": "farm18_results.csv",
+      "processing_date": "2025-03-10 11:27:38",
+      "sampling_rate": 46.42091576764944,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.06127080181543117,
+      "filter_order": 3,
+      "detection_threshold": 0.5481922442480635,
+      "baseline_threshold": 0.05197226749542256,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6224319192902416
+    }
+  },
+  {
+    "file_name": "farm18_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 14.573,
+      "end_time": 15.043,
+      "peak_time": 14.636,
+      "duration": 0.46999999999999886,
+      "peak_acceleration": 0.6135843758295975,
+      "start_index": 685,
+      "end_index": 709,
+      "peak_index": 688
+    },
+    "metadata": {
+      "source_file": "farm18_results.csv",
+      "processing_date": "2025-03-10 11:27:38",
+      "sampling_rate": 46.42091576764944,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.06127080181543117,
+      "filter_order": 3,
+      "detection_threshold": 0.5481922442480635,
+      "baseline_threshold": 0.05197226749542256,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6224319192902416
+    }
+  },
+  {
+    "file_name": "farm18_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 20.565,
+      "end_time": 21.1,
+      "peak_time": 20.706,
+      "duration": 0.5350000000000001,
+      "peak_acceleration": 0.44104999644943055,
+      "start_index": 960,
+      "end_index": 985,
+      "peak_index": 967
+    },
+    "metadata": {
+      "source_file": "farm18_results.csv",
+      "processing_date": "2025-03-10 11:27:38",
+      "sampling_rate": 46.42091576764944,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.06127080181543117,
+      "filter_order": 3,
+      "detection_threshold": 0.5481922442480635,
+      "baseline_threshold": 0.05197226749542256,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6224319192902416
+    }
+  },
+  {
+    "file_name": "farm19_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 4.554,
+      "end_time": 4.929,
+      "peak_time": 4.64,
+      "duration": 0.375,
+      "peak_acceleration": 0.7303054300661833,
+      "start_index": 152,
+      "end_index": 166,
+      "peak_index": 155
+    },
+    "metadata": {
+      "source_file": "farm19_results.csv",
+      "processing_date": "2025-03-10 11:28:27",
+      "sampling_rate": 23.677594787337746,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0551948051948052,
+      "filter_order": 3,
+      "detection_threshold": 0.37531631181586206,
+      "baseline_threshold": 0.04833093331228148,
+      "min_duration": 0.2,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6590639602700583
+    }
+  },
+  {
+    "file_name": "farm19_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 10.625,
+      "end_time": 11.046,
+      "peak_time": 10.653,
+      "duration": 0.4209999999999994,
+      "peak_acceleration": 0.39506980191143376,
+      "start_index": 298,
+      "end_index": 306,
+      "peak_index": 299
+    },
+    "metadata": {
+      "source_file": "farm19_results.csv",
+      "processing_date": "2025-03-10 11:28:27",
+      "sampling_rate": 23.677594787337746,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0551948051948052,
+      "filter_order": 3,
+      "detection_threshold": 0.37531631181586206,
+      "baseline_threshold": 0.04833093331228148,
+      "min_duration": 0.2,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6590639602700583
+    }
+  },
+  {
+    "file_name": "farm19_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 17.137,
+      "end_time": 17.704,
+      "peak_time": 17.392,
+      "duration": 0.5670000000000002,
+      "peak_acceleration": 0.43901327354375785,
+      "start_index": 452,
+      "end_index": 465,
+      "peak_index": 456
+    },
+    "metadata": {
+      "source_file": "farm19_results.csv",
+      "processing_date": "2025-03-10 11:28:27",
+      "sampling_rate": 23.677594787337746,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0551948051948052,
+      "filter_order": 3,
+      "detection_threshold": 0.37531631181586206,
+      "baseline_threshold": 0.04833093331228148,
+      "min_duration": 0.2,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6590639602700583
+    }
+  },
+  {
+    "file_name": "farm19_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 25.316,
+      "end_time": 25.931,
+      "peak_time": 25.406,
+      "duration": 0.615000000000002,
+      "peak_acceleration": 0.44876970156106694,
+      "start_index": 636,
+      "end_index": 648,
+      "peak_index": 638
+    },
+    "metadata": {
+      "source_file": "farm19_results.csv",
+      "processing_date": "2025-03-10 11:28:27",
+      "sampling_rate": 23.677594787337746,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0551948051948052,
+      "filter_order": 3,
+      "detection_threshold": 0.37531631181586206,
+      "baseline_threshold": 0.04833093331228148,
+      "min_duration": 0.2,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6590639602700583
+    }
+  },
+  {
+    "file_name": "farm19_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 32.43,
+      "end_time": 32.738,
+      "peak_time": 32.447,
+      "duration": 0.30799999999999983,
+      "peak_acceleration": 0.44358469359903074,
+      "start_index": 785,
+      "end_index": 793,
+      "peak_index": 786
+    },
+    "metadata": {
+      "source_file": "farm19_results.csv",
+      "processing_date": "2025-03-10 11:28:27",
+      "sampling_rate": 23.677594787337746,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0551948051948052,
+      "filter_order": 3,
+      "detection_threshold": 0.37531631181586206,
+      "baseline_threshold": 0.04833093331228148,
+      "min_duration": 0.2,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6590639602700583
+    }
+  },
+  {
+    "file_name": "farm1_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 9.713,
+      "end_time": 10.2,
+      "peak_time": 9.812,
+      "duration": 0.4870000000000001,
+      "peak_acceleration": 0.48951406534613007,
+      "start_index": 448,
+      "end_index": 473,
+      "peak_index": 453
+    },
+    "metadata": {
+      "source_file": "farm1_results.csv",
+      "processing_date": "2025-03-09 19:38:24",
+      "sampling_rate": 45.80631995353437,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0010277492291880781,
+      "filter_order": 3,
+      "detection_threshold": 0.4779785216145892,
+      "baseline_threshold": 0.02929758529833395,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm1_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 15.095,
+      "end_time": 15.598,
+      "peak_time": 15.4,
+      "duration": 0.5030000000000001,
+      "peak_acceleration": 0.698577503194893,
+      "start_index": 704,
+      "end_index": 722,
+      "peak_index": 713
+    },
+    "metadata": {
+      "source_file": "farm1_results.csv",
+      "processing_date": "2025-03-09 19:38:24",
+      "sampling_rate": 45.80631995353437,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0010277492291880781,
+      "filter_order": 3,
+      "detection_threshold": 0.4779785216145892,
+      "baseline_threshold": 0.02929758529833395,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm1_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 20.494,
+      "end_time": 20.987,
+      "peak_time": 20.528,
+      "duration": 0.49299999999999855,
+      "peak_acceleration": 0.8169702015220643,
+      "start_index": 941,
+      "end_index": 957,
+      "peak_index": 943
+    },
+    "metadata": {
+      "source_file": "farm1_results.csv",
+      "processing_date": "2025-03-09 19:38:24",
+      "sampling_rate": 45.80631995353437,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0010277492291880781,
+      "filter_order": 3,
+      "detection_threshold": 0.4779785216145892,
+      "baseline_threshold": 0.02929758529833395,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm1_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 25.701,
+      "end_time": 26.192,
+      "peak_time": 25.887,
+      "duration": 0.49099999999999966,
+      "peak_acceleration": 0.49708606472156125,
+      "start_index": 1180,
+      "end_index": 1204,
+      "peak_index": 1189
+    },
+    "metadata": {
+      "source_file": "farm1_results.csv",
+      "processing_date": "2025-03-09 19:38:24",
+      "sampling_rate": 45.80631995353437,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0010277492291880781,
+      "filter_order": 3,
+      "detection_threshold": 0.4779785216145892,
+      "baseline_threshold": 0.02929758529833395,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm1_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 31.786,
+      "end_time": 32.264,
+      "peak_time": 32.044,
+      "duration": 0.47800000000000153,
+      "peak_acceleration": 0.49507413658016586,
+      "start_index": 1465,
+      "end_index": 1489,
+      "peak_index": 1478
+    },
+    "metadata": {
+      "source_file": "farm1_results.csv",
+      "processing_date": "2025-03-09 19:38:24",
+      "sampling_rate": 45.80631995353437,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0010277492291880781,
+      "filter_order": 3,
+      "detection_threshold": 0.4779785216145892,
+      "baseline_threshold": 0.02929758529833395,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm1_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 38.612,
+      "end_time": 39.118,
+      "peak_time": 38.82,
+      "duration": 0.5060000000000002,
+      "peak_acceleration": 0.5606097083169262,
+      "start_index": 1767,
+      "end_index": 1787,
+      "peak_index": 1776
+    },
+    "metadata": {
+      "source_file": "farm1_results.csv",
+      "processing_date": "2025-03-09 19:38:24",
+      "sampling_rate": 45.80631995353437,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0010277492291880781,
+      "filter_order": 3,
+      "detection_threshold": 0.4779785216145892,
+      "baseline_threshold": 0.02929758529833395,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm20_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 4.789,
+      "end_time": 5.195,
+      "peak_time": 4.856,
+      "duration": 0.4060000000000006,
+      "peak_acceleration": 0.7537272304421747,
+      "start_index": 211,
+      "end_index": 231,
+      "peak_index": 214
+    },
+    "metadata": {
+      "source_file": "farm20_results.csv",
+      "processing_date": "2025-03-10 11:29:17",
+      "sampling_rate": 45.71300956863823,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0236664162283997,
+      "filter_order": 3,
+      "detection_threshold": 0.6105839967778989,
+      "baseline_threshold": 0.03465965555695475,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9290508086899785
+    }
+  },
+  {
+    "file_name": "farm20_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 10.153,
+      "end_time": 10.658,
+      "peak_time": 10.359,
+      "duration": 0.504999999999999,
+      "peak_acceleration": 0.6427199966083146,
+      "start_index": 465,
+      "end_index": 488,
+      "peak_index": 473
+    },
+    "metadata": {
+      "source_file": "farm20_results.csv",
+      "processing_date": "2025-03-10 11:29:17",
+      "sampling_rate": 45.71300956863823,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0236664162283997,
+      "filter_order": 3,
+      "detection_threshold": 0.6105839967778989,
+      "baseline_threshold": 0.03465965555695475,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9290508086899785
+    }
+  },
+  {
+    "file_name": "farm20_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 16.898,
+      "end_time": 17.434,
+      "peak_time": 17.117,
+      "duration": 0.5360000000000014,
+      "peak_acceleration": 0.49790679854972386,
+      "start_index": 762,
+      "end_index": 786,
+      "peak_index": 772
+    },
+    "metadata": {
+      "source_file": "farm20_results.csv",
+      "processing_date": "2025-03-10 11:29:17",
+      "sampling_rate": 45.71300956863823,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0236664162283997,
+      "filter_order": 3,
+      "detection_threshold": 0.6105839967778989,
+      "baseline_threshold": 0.03465965555695475,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9290508086899785
+    }
+  },
+  {
+    "file_name": "farm20_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 23.998,
+      "end_time": 24.55,
+      "peak_time": 24.125,
+      "duration": 0.5519999999999996,
+      "peak_acceleration": 0.5458887462356344,
+      "start_index": 1091,
+      "end_index": 1116,
+      "peak_index": 1094
+    },
+    "metadata": {
+      "source_file": "farm20_results.csv",
+      "processing_date": "2025-03-10 11:29:17",
+      "sampling_rate": 45.71300956863823,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0236664162283997,
+      "filter_order": 3,
+      "detection_threshold": 0.6105839967778989,
+      "baseline_threshold": 0.03465965555695475,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9290508086899785
+    }
+  },
+  {
+    "file_name": "farm20_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 31.213,
+      "end_time": 31.657,
+      "peak_time": 31.264,
+      "duration": 0.44399999999999906,
+      "peak_acceleration": 0.6407339143754142,
+      "start_index": 1441,
+      "end_index": 1461,
+      "peak_index": 1444
+    },
+    "metadata": {
+      "source_file": "farm20_results.csv",
+      "processing_date": "2025-03-10 11:29:17",
+      "sampling_rate": 45.71300956863823,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0236664162283997,
+      "filter_order": 3,
+      "detection_threshold": 0.6105839967778989,
+      "baseline_threshold": 0.03465965555695475,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9290508086899785
+    }
+  },
+  {
+    "file_name": "farm20_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 37.685,
+      "end_time": 38.218,
+      "peak_time": 37.862,
+      "duration": 0.5330000000000013,
+      "peak_acceleration": 0.7131404632234876,
+      "start_index": 1746,
+      "end_index": 1770,
+      "peak_index": 1754
+    },
+    "metadata": {
+      "source_file": "farm20_results.csv",
+      "processing_date": "2025-03-10 11:29:17",
+      "sampling_rate": 45.71300956863823,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0236664162283997,
+      "filter_order": 3,
+      "detection_threshold": 0.6105839967778989,
+      "baseline_threshold": 0.03465965555695475,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9290508086899785
+    }
+  },
+  {
+    "file_name": "farm20_results",
+    "rep_number": 7,
+    "concentric_phase": {
+      "start_time": 43.664,
+      "end_time": 44.138,
+      "peak_time": 43.714,
+      "duration": 0.47399999999999665,
+      "peak_acceleration": 0.5732801220880187,
+      "start_index": 2022,
+      "end_index": 2042,
+      "peak_index": 2025
+    },
+    "metadata": {
+      "source_file": "farm20_results.csv",
+      "processing_date": "2025-03-10 11:29:17",
+      "sampling_rate": 45.71300956863823,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0236664162283997,
+      "filter_order": 3,
+      "detection_threshold": 0.6105839967778989,
+      "baseline_threshold": 0.03465965555695475,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9290508086899785
+    }
+  },
+  {
+    "file_name": "farm20_results",
+    "rep_number": 8,
+    "concentric_phase": {
+      "start_time": 51.129,
+      "end_time": 51.665,
+      "peak_time": 51.27,
+      "duration": 0.5360000000000014,
+      "peak_acceleration": 0.5676207368481474,
+      "start_index": 2353,
+      "end_index": 2378,
+      "peak_index": 2361
+    },
+    "metadata": {
+      "source_file": "farm20_results.csv",
+      "processing_date": "2025-03-10 11:29:17",
+      "sampling_rate": 45.71300956863823,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0236664162283997,
+      "filter_order": 3,
+      "detection_threshold": 0.6105839967778989,
+      "baseline_threshold": 0.03465965555695475,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9290508086899785
+    }
+  },
+  {
+    "file_name": "farm21_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 4.503,
+      "end_time": 4.954,
+      "peak_time": 4.635,
+      "duration": 0.4509999999999996,
+      "peak_acceleration": 0.8364547239914287,
+      "start_index": 165,
+      "end_index": 184,
+      "peak_index": 168
+    },
+    "metadata": {
+      "source_file": "farm21_results.csv",
+      "processing_date": "2025-03-10 11:30:31",
+      "sampling_rate": 33.708031794993474,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0079155672823219,
+      "filter_order": 2,
+      "detection_threshold": 0.5414125704062509,
+      "baseline_threshold": 0.019033135545293678,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8565242571010304
+    }
+  },
+  {
+    "file_name": "farm21_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 10.382,
+      "end_time": 10.894,
+      "peak_time": 10.537,
+      "duration": 0.5120000000000005,
+      "peak_acceleration": 0.5699079688486852,
+      "start_index": 357,
+      "end_index": 374,
+      "peak_index": 361
+    },
+    "metadata": {
+      "source_file": "farm21_results.csv",
+      "processing_date": "2025-03-10 11:30:31",
+      "sampling_rate": 33.708031794993474,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0079155672823219,
+      "filter_order": 2,
+      "detection_threshold": 0.5414125704062509,
+      "baseline_threshold": 0.019033135545293678,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8565242571010304
+    }
+  },
+  {
+    "file_name": "farm21_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 17.278,
+      "end_time": 17.696,
+      "peak_time": 17.383,
+      "duration": 0.4180000000000028,
+      "peak_acceleration": 0.5477499284214711,
+      "start_index": 575,
+      "end_index": 587,
+      "peak_index": 578
+    },
+    "metadata": {
+      "source_file": "farm21_results.csv",
+      "processing_date": "2025-03-10 11:30:31",
+      "sampling_rate": 33.708031794993474,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0079155672823219,
+      "filter_order": 2,
+      "detection_threshold": 0.5414125704062509,
+      "baseline_threshold": 0.019033135545293678,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8565242571010304
+    }
+  },
+  {
+    "file_name": "farm21_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 25.414,
+      "end_time": 25.839,
+      "peak_time": 25.587,
+      "duration": 0.42499999999999716,
+      "peak_acceleration": 0.5459572965304312,
+      "start_index": 848,
+      "end_index": 863,
+      "peak_index": 853
+    },
+    "metadata": {
+      "source_file": "farm21_results.csv",
+      "processing_date": "2025-03-10 11:30:31",
+      "sampling_rate": 33.708031794993474,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0079155672823219,
+      "filter_order": 2,
+      "detection_threshold": 0.5414125704062509,
+      "baseline_threshold": 0.019033135545293678,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8565242571010304
+    }
+  },
+  {
+    "file_name": "farm21_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 32.55,
+      "end_time": 33.053,
+      "peak_time": 32.82,
+      "duration": 0.5030000000000001,
+      "peak_acceleration": 0.43781480218947877,
+      "start_index": 1088,
+      "end_index": 1101,
+      "peak_index": 1090
+    },
+    "metadata": {
+      "source_file": "farm21_results.csv",
+      "processing_date": "2025-03-10 11:30:31",
+      "sampling_rate": 33.708031794993474,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0079155672823219,
+      "filter_order": 2,
+      "detection_threshold": 0.5414125704062509,
+      "baseline_threshold": 0.019033135545293678,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8565242571010304
+    }
+  },
+  {
+    "file_name": "farm21_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 46.531,
+      "end_time": 47.05,
+      "peak_time": 46.705,
+      "duration": 0.5189999999999984,
+      "peak_acceleration": 0.6317985716072552,
+      "start_index": 1589,
+      "end_index": 1608,
+      "peak_index": 1596
+    },
+    "metadata": {
+      "source_file": "farm21_results.csv",
+      "processing_date": "2025-03-10 11:30:31",
+      "sampling_rate": 33.708031794993474,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0079155672823219,
+      "filter_order": 2,
+      "detection_threshold": 0.5414125704062509,
+      "baseline_threshold": 0.019033135545293678,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8565242571010304
+    }
+  },
+  {
+    "file_name": "farm21_results",
+    "rep_number": 7,
+    "concentric_phase": {
+      "start_time": 52.843,
+      "end_time": 53.364,
+      "peak_time": 52.983,
+      "duration": 0.5209999999999937,
+      "peak_acceleration": 0.44480934287781515,
+      "start_index": 1793,
+      "end_index": 1807,
+      "peak_index": 1797
+    },
+    "metadata": {
+      "source_file": "farm21_results.csv",
+      "processing_date": "2025-03-10 11:30:31",
+      "sampling_rate": 33.708031794993474,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0079155672823219,
+      "filter_order": 2,
+      "detection_threshold": 0.5414125704062509,
+      "baseline_threshold": 0.019033135545293678,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8565242571010304
+    }
+  },
+  {
+    "file_name": "farm21_results",
+    "rep_number": 8,
+    "concentric_phase": {
+      "start_time": 58.72,
+      "end_time": 59.068,
+      "peak_time": 58.72,
+      "duration": 0.347999999999999,
+      "peak_acceleration": 0.5323871807566737,
+      "start_index": 1984,
+      "end_index": 2000,
+      "peak_index": 1984
+    },
+    "metadata": {
+      "source_file": "farm21_results.csv",
+      "processing_date": "2025-03-10 11:30:31",
+      "sampling_rate": 33.708031794993474,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0079155672823219,
+      "filter_order": 2,
+      "detection_threshold": 0.5414125704062509,
+      "baseline_threshold": 0.019033135545293678,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8565242571010304
+    }
+  },
+  {
+    "file_name": "farm21_results",
+    "rep_number": 9,
+    "concentric_phase": {
+      "start_time": 60.958,
+      "end_time": 61.345,
+      "peak_time": 61.041,
+      "duration": 0.38700000000000045,
+      "peak_acceleration": 0.6980217421442303,
+      "start_index": 2057,
+      "end_index": 2077,
+      "peak_index": 2061
+    },
+    "metadata": {
+      "source_file": "farm21_results.csv",
+      "processing_date": "2025-03-10 11:30:31",
+      "sampling_rate": 33.708031794993474,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.0079155672823219,
+      "filter_order": 2,
+      "detection_threshold": 0.5414125704062509,
+      "baseline_threshold": 0.019033135545293678,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8565242571010304
+    }
+  },
+  {
+    "file_name": "farm22_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 14.665,
+      "end_time": 14.854,
+      "peak_time": 14.682,
+      "duration": 0.18900000000000006,
+      "peak_acceleration": 0.743540939719399,
+      "start_index": 636,
+      "end_index": 645,
+      "peak_index": 637
+    },
+    "metadata": {
+      "source_file": "farm22_results.csv",
+      "processing_date": "2025-03-10 11:31:41",
+      "sampling_rate": 42.03310532705576,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.007394366197183099,
+      "filter_order": 3,
+      "detection_threshold": 0.3325678369662935,
+      "baseline_threshold": 0.03981988624150508,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9161718085872956
+    }
+  },
+  {
+    "file_name": "farm22_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 16.409,
+      "end_time": 16.838,
+      "peak_time": 16.6,
+      "duration": 0.42900000000000205,
+      "peak_acceleration": 0.23049841223004153,
+      "start_index": 713,
+      "end_index": 729,
+      "peak_index": 719
+    },
+    "metadata": {
+      "source_file": "farm22_results.csv",
+      "processing_date": "2025-03-10 11:31:41",
+      "sampling_rate": 42.03310532705576,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.007394366197183099,
+      "filter_order": 3,
+      "detection_threshold": 0.3325678369662935,
+      "baseline_threshold": 0.03981988624150508,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9161718085872956
+    }
+  },
+  {
+    "file_name": "farm22_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 20.457,
+      "end_time": 20.661,
+      "peak_time": 20.54,
+      "duration": 0.20400000000000063,
+      "peak_acceleration": 0.5712227665668191,
+      "start_index": 844,
+      "end_index": 852,
+      "peak_index": 848
+    },
+    "metadata": {
+      "source_file": "farm22_results.csv",
+      "processing_date": "2025-03-10 11:31:41",
+      "sampling_rate": 42.03310532705576,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.007394366197183099,
+      "filter_order": 3,
+      "detection_threshold": 0.3325678369662935,
+      "baseline_threshold": 0.03981988624150508,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9161718085872956
+    }
+  },
+  {
+    "file_name": "farm22_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 29.702,
+      "end_time": 29.919,
+      "peak_time": 29.777,
+      "duration": 0.21699999999999875,
+      "peak_acceleration": 0.658172714327367,
+      "start_index": 1169,
+      "end_index": 1177,
+      "peak_index": 1173
+    },
+    "metadata": {
+      "source_file": "farm22_results.csv",
+      "processing_date": "2025-03-10 11:31:41",
+      "sampling_rate": 42.03310532705576,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.007394366197183099,
+      "filter_order": 3,
+      "detection_threshold": 0.3325678369662935,
+      "baseline_threshold": 0.03981988624150508,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9161718085872956
+    }
+  },
+  {
+    "file_name": "farm22_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 38.364,
+      "end_time": 38.697,
+      "peak_time": 38.454,
+      "duration": 0.3330000000000055,
+      "peak_acceleration": 0.44812118127135636,
+      "start_index": 1502,
+      "end_index": 1520,
+      "peak_index": 1507
+    },
+    "metadata": {
+      "source_file": "farm22_results.csv",
+      "processing_date": "2025-03-10 11:31:41",
+      "sampling_rate": 42.03310532705576,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.007394366197183099,
+      "filter_order": 3,
+      "detection_threshold": 0.3325678369662935,
+      "baseline_threshold": 0.03981988624150508,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9161718085872956
+    }
+  },
+  {
+    "file_name": "farm22_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 54.625,
+      "end_time": 54.986,
+      "peak_time": 54.81,
+      "duration": 0.3609999999999971,
+      "peak_acceleration": 0.47867973658941343,
+      "start_index": 2261,
+      "end_index": 2279,
+      "peak_index": 2270
+    },
+    "metadata": {
+      "source_file": "farm22_results.csv",
+      "processing_date": "2025-03-10 11:31:41",
+      "sampling_rate": 42.03310532705576,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.007394366197183099,
+      "filter_order": 3,
+      "detection_threshold": 0.3325678369662935,
+      "baseline_threshold": 0.03981988624150508,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9161718085872956
+    }
+  },
+  {
+    "file_name": "farm22_results",
+    "rep_number": 7,
+    "concentric_phase": {
+      "start_time": 62.592999999999996,
+      "end_time": 62.743,
+      "peak_time": 62.607,
+      "duration": 0.15000000000000568,
+      "peak_acceleration": 0.6534439724197642,
+      "start_index": 2637,
+      "end_index": 2644,
+      "peak_index": 2637
+    },
+    "metadata": {
+      "source_file": "farm22_results.csv",
+      "processing_date": "2025-03-10 11:31:41",
+      "sampling_rate": 42.03310532705576,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.007394366197183099,
+      "filter_order": 3,
+      "detection_threshold": 0.3325678369662935,
+      "baseline_threshold": 0.03981988624150508,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.9161718085872956
+    }
+  },
+  {
+    "file_name": "farm23_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 3.493,
+      "end_time": 4.179,
+      "peak_time": 3.613,
+      "duration": 0.6860000000000004,
+      "peak_acceleration": 0.5712395389016827,
+      "start_index": 142,
+      "end_index": 166,
+      "peak_index": 147
+    },
+    "metadata": {
+      "source_file": "farm23_results.csv",
+      "processing_date": "2025-03-10 11:32:12",
+      "sampling_rate": 39.059572873735476,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.011505273250239693,
+      "filter_order": 3,
+      "detection_threshold": 0.5426775619565986,
+      "baseline_threshold": 0.03407950135989261,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8046627407904988
+    }
+  },
+  {
+    "file_name": "farm23_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 11.534,
+      "end_time": 12.085,
+      "peak_time": 11.672,
+      "duration": 0.5510000000000002,
+      "peak_acceleration": 0.5326588842340432,
+      "start_index": 434,
+      "end_index": 455,
+      "peak_index": 439
+    },
+    "metadata": {
+      "source_file": "farm23_results.csv",
+      "processing_date": "2025-03-10 11:32:12",
+      "sampling_rate": 39.059572873735476,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.011505273250239693,
+      "filter_order": 3,
+      "detection_threshold": 0.5426775619565986,
+      "baseline_threshold": 0.03407950135989261,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8046627407904988
+    }
+  },
+  {
+    "file_name": "farm23_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 18.403,
+      "end_time": 18.812,
+      "peak_time": 18.489,
+      "duration": 0.4090000000000025,
+      "peak_acceleration": 0.7671995335624631,
+      "start_index": 645,
+      "end_index": 664,
+      "peak_index": 649
+    },
+    "metadata": {
+      "source_file": "farm23_results.csv",
+      "processing_date": "2025-03-10 11:32:12",
+      "sampling_rate": 39.059572873735476,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.011505273250239693,
+      "filter_order": 3,
+      "detection_threshold": 0.5426775619565986,
+      "baseline_threshold": 0.03407950135989261,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8046627407904988
+    }
+  },
+  {
+    "file_name": "farm23_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 25.51,
+      "end_time": 25.844,
+      "peak_time": 25.571,
+      "duration": 0.33399999999999963,
+      "peak_acceleration": 0.5174917897637775,
+      "start_index": 937,
+      "end_index": 950,
+      "peak_index": 940
+    },
+    "metadata": {
+      "source_file": "farm23_results.csv",
+      "processing_date": "2025-03-10 11:32:12",
+      "sampling_rate": 39.059572873735476,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.011505273250239693,
+      "filter_order": 3,
+      "detection_threshold": 0.5426775619565986,
+      "baseline_threshold": 0.03407950135989261,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8046627407904988
+    }
+  },
+  {
+    "file_name": "farm23_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 32.785,
+      "end_time": 33.332,
+      "peak_time": 33.007,
+      "duration": 0.5470000000000041,
+      "peak_acceleration": 0.48168890037541656,
+      "start_index": 1231,
+      "end_index": 1246,
+      "peak_index": 1235
+    },
+    "metadata": {
+      "source_file": "farm23_results.csv",
+      "processing_date": "2025-03-10 11:32:12",
+      "sampling_rate": 39.059572873735476,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.011505273250239693,
+      "filter_order": 3,
+      "detection_threshold": 0.5426775619565986,
+      "baseline_threshold": 0.03407950135989261,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8046627407904988
+    }
+  },
+  {
+    "file_name": "farm23_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 39.427,
+      "end_time": 39.943,
+      "peak_time": 39.501,
+      "duration": 0.5159999999999982,
+      "peak_acceleration": 0.5113755123887962,
+      "start_index": 1478,
+      "end_index": 1500,
+      "peak_index": 1482
+    },
+    "metadata": {
+      "source_file": "farm23_results.csv",
+      "processing_date": "2025-03-10 11:32:12",
+      "sampling_rate": 39.059572873735476,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.011505273250239693,
+      "filter_order": 3,
+      "detection_threshold": 0.5426775619565986,
+      "baseline_threshold": 0.03407950135989261,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8046627407904988
+    }
+  },
+  {
+    "file_name": "farm23_results",
+    "rep_number": 7,
+    "concentric_phase": {
+      "start_time": 45.795,
+      "end_time": 46.213,
+      "peak_time": 45.877,
+      "duration": 0.41799999999999926,
+      "peak_acceleration": 0.7877205710599785,
+      "start_index": 1775,
+      "end_index": 1791,
+      "peak_index": 1780
+    },
+    "metadata": {
+      "source_file": "farm23_results.csv",
+      "processing_date": "2025-03-10 11:32:12",
+      "sampling_rate": 39.059572873735476,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.011505273250239693,
+      "filter_order": 3,
+      "detection_threshold": 0.5426775619565986,
+      "baseline_threshold": 0.03407950135989261,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.8046627407904988
+    }
+  },
+  {
+    "file_name": "farm24_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 2.738,
+      "end_time": 2.89,
+      "peak_time": 2.838,
+      "duration": 0.15200000000000014,
+      "peak_acceleration": 0.47102650697130505,
+      "start_index": 106,
+      "end_index": 112,
+      "peak_index": 109
+    },
+    "metadata": {
+      "source_file": "farm24_results.csv",
+      "processing_date": "2025-03-10 11:32:59",
+      "sampling_rate": 38.697734551758586,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.025037936267071324,
+      "filter_order": 3,
+      "detection_threshold": 0.3704376723506394,
+      "baseline_threshold": 0.04538196162565948,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6304272168135867
+    }
+  },
+  {
+    "file_name": "farm24_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 9.646,
+      "end_time": 10.027,
+      "peak_time": 9.845,
+      "duration": 0.38099999999999845,
+      "peak_acceleration": 0.5183545131515496,
+      "start_index": 364,
+      "end_index": 381,
+      "peak_index": 374
+    },
+    "metadata": {
+      "source_file": "farm24_results.csv",
+      "processing_date": "2025-03-10 11:32:59",
+      "sampling_rate": 38.697734551758586,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.025037936267071324,
+      "filter_order": 3,
+      "detection_threshold": 0.3704376723506394,
+      "baseline_threshold": 0.04538196162565948,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6304272168135867
+    }
+  },
+  {
+    "file_name": "farm24_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 17.492,
+      "end_time": 17.797,
+      "peak_time": 17.564,
+      "duration": 0.3049999999999997,
+      "peak_acceleration": 0.24880049287037492,
+      "start_index": 658,
+      "end_index": 674,
+      "peak_index": 661
+    },
+    "metadata": {
+      "source_file": "farm24_results.csv",
+      "processing_date": "2025-03-10 11:32:59",
+      "sampling_rate": 38.697734551758586,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.025037936267071324,
+      "filter_order": 3,
+      "detection_threshold": 0.3704376723506394,
+      "baseline_threshold": 0.04538196162565948,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6304272168135867
+    }
+  },
+  {
+    "file_name": "farm24_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 22.232,
+      "end_time": 22.48,
+      "peak_time": 22.397,
+      "duration": 0.2480000000000011,
+      "peak_acceleration": 0.5611471604969097,
+      "start_index": 827,
+      "end_index": 833,
+      "peak_index": 830
+    },
+    "metadata": {
+      "source_file": "farm24_results.csv",
+      "processing_date": "2025-03-10 11:32:59",
+      "sampling_rate": 38.697734551758586,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.025037936267071324,
+      "filter_order": 3,
+      "detection_threshold": 0.3704376723506394,
+      "baseline_threshold": 0.04538196162565948,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6304272168135867
+    }
+  },
+  {
+    "file_name": "farm24_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 27.875,
+      "end_time": 28.225,
+      "peak_time": 28.037,
+      "duration": 0.3500000000000014,
+      "peak_acceleration": 0.7238046298707449,
+      "start_index": 1022,
+      "end_index": 1038,
+      "peak_index": 1030
+    },
+    "metadata": {
+      "source_file": "farm24_results.csv",
+      "processing_date": "2025-03-10 11:32:59",
+      "sampling_rate": 38.697734551758586,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.025037936267071324,
+      "filter_order": 3,
+      "detection_threshold": 0.3704376723506394,
+      "baseline_threshold": 0.04538196162565948,
+      "min_duration": 0.06859999999999998,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6304272168135867
+    }
+  },
+  {
+    "file_name": "farm25_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 3.049,
+      "end_time": 3.525,
+      "peak_time": 3.234,
+      "duration": 0.476,
+      "peak_acceleration": 0.5014833939757605,
+      "start_index": 154,
+      "end_index": 178,
+      "peak_index": 163
+    },
+    "metadata": {
+      "source_file": "farm25_results.csv",
+      "processing_date": "2025-03-10 11:34:06",
+      "sampling_rate": 48.08163500619757,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012582384661473937,
+      "filter_order": 3,
+      "detection_threshold": 0.6058342375939061,
+      "baseline_threshold": 0.05781960774813346,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7207904745592945
+    }
+  },
+  {
+    "file_name": "farm25_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 9.415,
+      "end_time": 9.934,
+      "peak_time": 9.485,
+      "duration": 0.5190000000000001,
+      "peak_acceleration": 0.44358308567421684,
+      "start_index": 469,
+      "end_index": 496,
+      "peak_index": 473
+    },
+    "metadata": {
+      "source_file": "farm25_results.csv",
+      "processing_date": "2025-03-10 11:34:06",
+      "sampling_rate": 48.08163500619757,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012582384661473937,
+      "filter_order": 3,
+      "detection_threshold": 0.6058342375939061,
+      "baseline_threshold": 0.05781960774813346,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7207904745592945
+    }
+  },
+  {
+    "file_name": "farm25_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 21.595,
+      "end_time": 22.195,
+      "peak_time": 21.733,
+      "duration": 0.6000000000000014,
+      "peak_acceleration": 0.6170373108057771,
+      "start_index": 1044,
+      "end_index": 1074,
+      "peak_index": 1050
+    },
+    "metadata": {
+      "source_file": "farm25_results.csv",
+      "processing_date": "2025-03-10 11:34:06",
+      "sampling_rate": 48.08163500619757,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012582384661473937,
+      "filter_order": 3,
+      "detection_threshold": 0.6058342375939061,
+      "baseline_threshold": 0.05781960774813346,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7207904745592945
+    }
+  },
+  {
+    "file_name": "farm25_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 27.048,
+      "end_time": 27.66,
+      "peak_time": 27.277,
+      "duration": 0.6120000000000019,
+      "peak_acceleration": 0.4648574286050637,
+      "start_index": 1298,
+      "end_index": 1326,
+      "peak_index": 1309
+    },
+    "metadata": {
+      "source_file": "farm25_results.csv",
+      "processing_date": "2025-03-10 11:34:06",
+      "sampling_rate": 48.08163500619757,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012582384661473937,
+      "filter_order": 3,
+      "detection_threshold": 0.6058342375939061,
+      "baseline_threshold": 0.05781960774813346,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7207904745592945
+    }
+  },
+  {
+    "file_name": "farm26_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 3.995,
+      "end_time": 4.478,
+      "peak_time": 4.063,
+      "duration": 0.48299999999999965,
+      "peak_acceleration": 0.6121155916231332,
+      "start_index": 193,
+      "end_index": 214,
+      "peak_index": 196
+    },
+    "metadata": {
+      "source_file": "farm26_results.csv",
+      "processing_date": "2025-03-10 11:35:32",
+      "sampling_rate": 47.94010770106388,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.005476951163852122,
+      "filter_order": 3,
+      "detection_threshold": 0.5819068292352721,
+      "baseline_threshold": 0.043053292059107316,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.742481325026622
+    }
+  },
+  {
+    "file_name": "farm26_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 9.65,
+      "end_time": 10.156,
+      "peak_time": 9.733,
+      "duration": 0.5060000000000002,
+      "peak_acceleration": 0.43051151681033717,
+      "start_index": 455,
+      "end_index": 478,
+      "peak_index": 458
+    },
+    "metadata": {
+      "source_file": "farm26_results.csv",
+      "processing_date": "2025-03-10 11:35:32",
+      "sampling_rate": 47.94010770106388,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.005476951163852122,
+      "filter_order": 3,
+      "detection_threshold": 0.5819068292352721,
+      "baseline_threshold": 0.043053292059107316,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.742481325026622
+    }
+  },
+  {
+    "file_name": "farm26_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 13.252,
+      "end_time": 13.605,
+      "peak_time": 13.353,
+      "duration": 0.35299999999999976,
+      "peak_acceleration": 0.6584706904554126,
+      "start_index": 628,
+      "end_index": 643,
+      "peak_index": 633
+    },
+    "metadata": {
+      "source_file": "farm26_results.csv",
+      "processing_date": "2025-03-10 11:35:32",
+      "sampling_rate": 47.94010770106388,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.005476951163852122,
+      "filter_order": 3,
+      "detection_threshold": 0.5819068292352721,
+      "baseline_threshold": 0.043053292059107316,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.742481325026622
+    }
+  },
+  {
+    "file_name": "farm26_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 16.41,
+      "end_time": 16.977,
+      "peak_time": 16.72,
+      "duration": 0.5670000000000002,
+      "peak_acceleration": 0.46514132972547195,
+      "start_index": 782,
+      "end_index": 810,
+      "peak_index": 797
+    },
+    "metadata": {
+      "source_file": "farm26_results.csv",
+      "processing_date": "2025-03-10 11:35:32",
+      "sampling_rate": 47.94010770106388,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.005476951163852122,
+      "filter_order": 3,
+      "detection_threshold": 0.5819068292352721,
+      "baseline_threshold": 0.043053292059107316,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.742481325026622
+    }
+  },
+  {
+    "file_name": "farm26_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 27.23,
+      "end_time": 27.873,
+      "peak_time": 27.615,
+      "duration": 0.6430000000000007,
+      "peak_acceleration": 1.1467671090765885,
+      "start_index": 1306,
+      "end_index": 1336,
+      "peak_index": 1323
+    },
+    "metadata": {
+      "source_file": "farm26_results.csv",
+      "processing_date": "2025-03-10 11:35:32",
+      "sampling_rate": 47.94010770106388,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.005476951163852122,
+      "filter_order": 3,
+      "detection_threshold": 0.5819068292352721,
+      "baseline_threshold": 0.043053292059107316,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.742481325026622
+    }
+  },
+  {
+    "file_name": "farm26_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 33.179,
+      "end_time": 33.697,
+      "peak_time": 33.351,
+      "duration": 0.5180000000000007,
+      "peak_acceleration": 0.39659406521536894,
+      "start_index": 1599,
+      "end_index": 1622,
+      "peak_index": 1606
+    },
+    "metadata": {
+      "source_file": "farm26_results.csv",
+      "processing_date": "2025-03-10 11:35:32",
+      "sampling_rate": 47.94010770106388,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.005476951163852122,
+      "filter_order": 3,
+      "detection_threshold": 0.5819068292352721,
+      "baseline_threshold": 0.043053292059107316,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.742481325026622
+    }
+  },
+  {
+    "file_name": "farm26_results",
+    "rep_number": 7,
+    "concentric_phase": {
+      "start_time": 39.082,
+      "end_time": 39.7,
+      "peak_time": 39.483,
+      "duration": 0.6180000000000021,
+      "peak_acceleration": 0.566290707693297,
+      "start_index": 1885,
+      "end_index": 1916,
+      "peak_index": 1905
+    },
+    "metadata": {
+      "source_file": "farm26_results.csv",
+      "processing_date": "2025-03-10 11:35:32",
+      "sampling_rate": 47.94010770106388,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.005476951163852122,
+      "filter_order": 3,
+      "detection_threshold": 0.5819068292352721,
+      "baseline_threshold": 0.043053292059107316,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.742481325026622
+    }
+  },
+  {
+    "file_name": "farm27_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 6.662,
+      "end_time": 6.935,
+      "peak_time": 6.778,
+      "duration": 0.2729999999999997,
+      "peak_acceleration": 0.501138383820616,
+      "start_index": 325,
+      "end_index": 341,
+      "peak_index": 332
+    },
+    "metadata": {
+      "source_file": "farm27_results.csv",
+      "processing_date": "2025-03-10 11:36:23",
+      "sampling_rate": 48.01461314313052,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01765504753282028,
+      "filter_order": 3,
+      "detection_threshold": 0.2459393147850705,
+      "baseline_threshold": 0.0484514358550923,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7322201556930499
+    }
+  },
+  {
+    "file_name": "farm27_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 12.905,
+      "end_time": 13.317,
+      "peak_time": 13.142,
+      "duration": 0.4120000000000008,
+      "peak_acceleration": 0.43284132655824326,
+      "start_index": 619,
+      "end_index": 638,
+      "peak_index": 632
+    },
+    "metadata": {
+      "source_file": "farm27_results.csv",
+      "processing_date": "2025-03-10 11:36:23",
+      "sampling_rate": 48.01461314313052,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01765504753282028,
+      "filter_order": 3,
+      "detection_threshold": 0.2459393147850705,
+      "baseline_threshold": 0.0484514358550923,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7322201556930499
+    }
+  },
+  {
+    "file_name": "farm27_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 19.714,
+      "end_time": 20.085,
+      "peak_time": 19.883,
+      "duration": 0.3710000000000022,
+      "peak_acceleration": 0.502816201125351,
+      "start_index": 954,
+      "end_index": 969,
+      "peak_index": 962
+    },
+    "metadata": {
+      "source_file": "farm27_results.csv",
+      "processing_date": "2025-03-10 11:36:23",
+      "sampling_rate": 48.01461314313052,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01765504753282028,
+      "filter_order": 3,
+      "detection_threshold": 0.2459393147850705,
+      "baseline_threshold": 0.0484514358550923,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7322201556930499
+    }
+  },
+  {
+    "file_name": "farm27_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 26.818,
+      "end_time": 27.224,
+      "peak_time": 26.991,
+      "duration": 0.4059999999999988,
+      "peak_acceleration": 0.5932638221021563,
+      "start_index": 1294,
+      "end_index": 1312,
+      "peak_index": 1301
+    },
+    "metadata": {
+      "source_file": "farm27_results.csv",
+      "processing_date": "2025-03-10 11:36:23",
+      "sampling_rate": 48.01461314313052,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01765504753282028,
+      "filter_order": 3,
+      "detection_threshold": 0.2459393147850705,
+      "baseline_threshold": 0.0484514358550923,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7322201556930499
+    }
+  },
+  {
+    "file_name": "farm27_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 33.795,
+      "end_time": 34.18,
+      "peak_time": 33.96,
+      "duration": 0.384999999999998,
+      "peak_acceleration": 0.5991296917731495,
+      "start_index": 1623,
+      "end_index": 1640,
+      "peak_index": 1631
+    },
+    "metadata": {
+      "source_file": "farm27_results.csv",
+      "processing_date": "2025-03-10 11:36:23",
+      "sampling_rate": 48.01461314313052,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01765504753282028,
+      "filter_order": 3,
+      "detection_threshold": 0.2459393147850705,
+      "baseline_threshold": 0.0484514358550923,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7322201556930499
+    }
+  },
+  {
+    "file_name": "farm27_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 40.418,
+      "end_time": 40.752,
+      "peak_time": 40.572,
+      "duration": 0.3340000000000032,
+      "peak_acceleration": 0.7186617650168952,
+      "start_index": 1935,
+      "end_index": 1952,
+      "peak_index": 1943
+    },
+    "metadata": {
+      "source_file": "farm27_results.csv",
+      "processing_date": "2025-03-10 11:36:23",
+      "sampling_rate": 48.01461314313052,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01765504753282028,
+      "filter_order": 3,
+      "detection_threshold": 0.2459393147850705,
+      "baseline_threshold": 0.0484514358550923,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7322201556930499
+    }
+  },
+  {
+    "file_name": "farm2_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 3.226,
+      "end_time": 3.587,
+      "peak_time": 3.306,
+      "duration": 0.3610000000000002,
+      "peak_acceleration": 0.7859210046677834,
+      "start_index": 146,
+      "end_index": 161,
+      "peak_index": 149
+    },
+    "metadata": {
+      "source_file": "farm2_results.csv",
+      "processing_date": "2025-03-09 19:39:03",
+      "sampling_rate": 44.593498931230194,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02312775330396476,
+      "filter_order": 3,
+      "detection_threshold": 0.5644148528393128,
+      "baseline_threshold": 0.04908952665618159,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm2_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 8.998,
+      "end_time": 9.409,
+      "peak_time": 9.169,
+      "duration": 0.41100000000000136,
+      "peak_acceleration": 0.6552924903444813,
+      "start_index": 430,
+      "end_index": 447,
+      "peak_index": 438
+    },
+    "metadata": {
+      "source_file": "farm2_results.csv",
+      "processing_date": "2025-03-09 19:39:03",
+      "sampling_rate": 44.593498931230194,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02312775330396476,
+      "filter_order": 3,
+      "detection_threshold": 0.5644148528393128,
+      "baseline_threshold": 0.04908952665618159,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm2_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 14.582,
+      "end_time": 15.056,
+      "peak_time": 14.647,
+      "duration": 0.4739999999999984,
+      "peak_acceleration": 0.40021753041861285,
+      "start_index": 670,
+      "end_index": 694,
+      "peak_index": 673
+    },
+    "metadata": {
+      "source_file": "farm2_results.csv",
+      "processing_date": "2025-03-09 19:39:03",
+      "sampling_rate": 44.593498931230194,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02312775330396476,
+      "filter_order": 3,
+      "detection_threshold": 0.5644148528393128,
+      "baseline_threshold": 0.04908952665618159,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm2_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 20.355,
+      "end_time": 20.826,
+      "peak_time": 20.453,
+      "duration": 0.4710000000000001,
+      "peak_acceleration": 0.41824866847790204,
+      "start_index": 921,
+      "end_index": 937,
+      "peak_index": 923
+    },
+    "metadata": {
+      "source_file": "farm2_results.csv",
+      "processing_date": "2025-03-09 19:39:03",
+      "sampling_rate": 44.593498931230194,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02312775330396476,
+      "filter_order": 3,
+      "detection_threshold": 0.5644148528393128,
+      "baseline_threshold": 0.04908952665618159,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm2_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 26.332,
+      "end_time": 26.763,
+      "peak_time": 26.604,
+      "duration": 0.43100000000000094,
+      "peak_acceleration": 0.6094831833056357,
+      "start_index": 1176,
+      "end_index": 1199,
+      "peak_index": 1191
+    },
+    "metadata": {
+      "source_file": "farm2_results.csv",
+      "processing_date": "2025-03-09 19:39:03",
+      "sampling_rate": 44.593498931230194,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02312775330396476,
+      "filter_order": 3,
+      "detection_threshold": 0.5644148528393128,
+      "baseline_threshold": 0.04908952665618159,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm2_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 33.126,
+      "end_time": 33.577,
+      "peak_time": 33.366,
+      "duration": 0.4510000000000005,
+      "peak_acceleration": 0.5516390237488998,
+      "start_index": 1480,
+      "end_index": 1501,
+      "peak_index": 1490
+    },
+    "metadata": {
+      "source_file": "farm2_results.csv",
+      "processing_date": "2025-03-09 19:39:03",
+      "sampling_rate": 44.593498931230194,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02312775330396476,
+      "filter_order": 3,
+      "detection_threshold": 0.5644148528393128,
+      "baseline_threshold": 0.04908952665618159,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm3_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 9.427,
+      "end_time": 9.95,
+      "peak_time": 9.659,
+      "duration": 0.5229999999999997,
+      "peak_acceleration": 0.5266069245773706,
+      "start_index": 444,
+      "end_index": 462,
+      "peak_index": 451
+    },
+    "metadata": {
+      "source_file": "farm3_results.csv",
+      "processing_date": "2025-03-09 19:39:40",
+      "sampling_rate": 45.68683118584844,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.001433349259436216,
+      "filter_order": 2,
+      "detection_threshold": 0.4895831202994663,
+      "baseline_threshold": 0.026398722456618756,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm3_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 14.379,
+      "end_time": 14.873,
+      "peak_time": 14.635,
+      "duration": 0.4939999999999998,
+      "peak_acceleration": 0.515439601221809,
+      "start_index": 670,
+      "end_index": 693,
+      "peak_index": 681
+    },
+    "metadata": {
+      "source_file": "farm3_results.csv",
+      "processing_date": "2025-03-09 19:39:40",
+      "sampling_rate": 45.68683118584844,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.001433349259436216,
+      "filter_order": 2,
+      "detection_threshold": 0.4895831202994663,
+      "baseline_threshold": 0.026398722456618756,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm3_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 20.049,
+      "end_time": 20.553,
+      "peak_time": 20.285,
+      "duration": 0.5040000000000013,
+      "peak_acceleration": 0.593301521923202,
+      "start_index": 932,
+      "end_index": 955,
+      "peak_index": 944
+    },
+    "metadata": {
+      "source_file": "farm3_results.csv",
+      "processing_date": "2025-03-09 19:39:40",
+      "sampling_rate": 45.68683118584844,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.001433349259436216,
+      "filter_order": 2,
+      "detection_threshold": 0.4895831202994663,
+      "baseline_threshold": 0.026398722456618756,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm3_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 32.293,
+      "end_time": 32.862,
+      "peak_time": 32.505,
+      "duration": 0.5690000000000026,
+      "peak_acceleration": 0.5153506529468067,
+      "start_index": 1487,
+      "end_index": 1514,
+      "peak_index": 1498
+    },
+    "metadata": {
+      "source_file": "farm3_results.csv",
+      "processing_date": "2025-03-09 19:39:40",
+      "sampling_rate": 45.68683118584844,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.001433349259436216,
+      "filter_order": 2,
+      "detection_threshold": 0.4895831202994663,
+      "baseline_threshold": 0.026398722456618756,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm3_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 38.682,
+      "end_time": 39.033,
+      "peak_time": 38.895,
+      "duration": 0.3509999999999991,
+      "peak_acceleration": 0.5973883900225798,
+      "start_index": 1780,
+      "end_index": 1797,
+      "peak_index": 1791
+    },
+    "metadata": {
+      "source_file": "farm3_results.csv",
+      "processing_date": "2025-03-09 19:39:40",
+      "sampling_rate": 45.68683118584844,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.001433349259436216,
+      "filter_order": 2,
+      "detection_threshold": 0.4895831202994663,
+      "baseline_threshold": 0.026398722456618756,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.95
+    }
+  },
+  {
+    "file_name": "farm4_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 0.016,
+      "end_time": 0.52,
+      "peak_time": 0.016,
+      "duration": 0.504,
+      "peak_acceleration": 1.53871571212509,
+      "start_index": 1,
+      "end_index": 23,
+      "peak_index": 1
+    },
+    "metadata": {
+      "source_file": "farm4_results.csv",
+      "processing_date": "2025-03-09 19:40:32",
+      "sampling_rate": 45.133131766312296,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02105831533477322,
+      "filter_order": 3,
+      "detection_threshold": 0.30220013196307083,
+      "baseline_threshold": 0.04466053023147083,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7549231003719685
+    }
+  },
+  {
+    "file_name": "farm4_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 3.909,
+      "end_time": 4.387,
+      "peak_time": 4.076,
+      "duration": 0.47799999999999976,
+      "peak_acceleration": 0.43875156069475635,
+      "start_index": 167,
+      "end_index": 189,
+      "peak_index": 174
+    },
+    "metadata": {
+      "source_file": "farm4_results.csv",
+      "processing_date": "2025-03-09 19:40:32",
+      "sampling_rate": 45.133131766312296,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02105831533477322,
+      "filter_order": 3,
+      "detection_threshold": 0.30220013196307083,
+      "baseline_threshold": 0.04466053023147083,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7549231003719685
+    }
+  },
+  {
+    "file_name": "farm4_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 9.518,
+      "end_time": 9.99,
+      "peak_time": 9.789,
+      "duration": 0.47199999999999953,
+      "peak_acceleration": 0.45956819420062917,
+      "start_index": 423,
+      "end_index": 447,
+      "peak_index": 437
+    },
+    "metadata": {
+      "source_file": "farm4_results.csv",
+      "processing_date": "2025-03-09 19:40:32",
+      "sampling_rate": 45.133131766312296,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02105831533477322,
+      "filter_order": 3,
+      "detection_threshold": 0.30220013196307083,
+      "baseline_threshold": 0.04466053023147083,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7549231003719685
+    }
+  },
+  {
+    "file_name": "farm4_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 16.156,
+      "end_time": 16.5,
+      "peak_time": 16.302,
+      "duration": 0.3440000000000012,
+      "peak_acceleration": 0.5413505141769275,
+      "start_index": 738,
+      "end_index": 753,
+      "peak_index": 743
+    },
+    "metadata": {
+      "source_file": "farm4_results.csv",
+      "processing_date": "2025-03-09 19:40:32",
+      "sampling_rate": 45.133131766312296,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02105831533477322,
+      "filter_order": 3,
+      "detection_threshold": 0.30220013196307083,
+      "baseline_threshold": 0.04466053023147083,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7549231003719685
+    }
+  },
+  {
+    "file_name": "farm4_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 28.26,
+      "end_time": 28.559,
+      "peak_time": 28.26,
+      "duration": 0.2989999999999995,
+      "peak_acceleration": 0.5045750685357041,
+      "start_index": 1283,
+      "end_index": 1296,
+      "peak_index": 1283
+    },
+    "metadata": {
+      "source_file": "farm4_results.csv",
+      "processing_date": "2025-03-09 19:40:32",
+      "sampling_rate": 45.133131766312296,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02105831533477322,
+      "filter_order": 3,
+      "detection_threshold": 0.30220013196307083,
+      "baseline_threshold": 0.04466053023147083,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7549231003719685
+    }
+  },
+  {
+    "file_name": "farm4_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 34.093,
+      "end_time": 34.619,
+      "peak_time": 34.379,
+      "duration": 0.5259999999999962,
+      "peak_acceleration": 0.48996599758197734,
+      "start_index": 1552,
+      "end_index": 1574,
+      "peak_index": 1561
+    },
+    "metadata": {
+      "source_file": "farm4_results.csv",
+      "processing_date": "2025-03-09 19:40:32",
+      "sampling_rate": 45.133131766312296,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.02105831533477322,
+      "filter_order": 3,
+      "detection_threshold": 0.30220013196307083,
+      "baseline_threshold": 0.04466053023147083,
+      "min_duration": 0.15,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7549231003719685
+    }
+  },
+  {
+    "file_name": "farm5_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 10.547,
+      "end_time": 10.938,
+      "peak_time": 10.745,
+      "duration": 0.391,
+      "peak_acceleration": 0.6854747934090247,
+      "start_index": 466,
+      "end_index": 483,
+      "peak_index": 477
+    },
+    "metadata": {
+      "source_file": "farm5_results.csv",
+      "processing_date": "2025-03-09 19:41:09",
+      "sampling_rate": 44.32885645524416,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012252042007001166,
+      "filter_order": 3,
+      "detection_threshold": 0.32801860667529525,
+      "baseline_threshold": 0.05050106618405333,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7722976089695693
+    }
+  },
+  {
+    "file_name": "farm5_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 15.577,
+      "end_time": 15.961,
+      "peak_time": 15.615,
+      "duration": 0.38400000000000034,
+      "peak_acceleration": 0.5932340827770693,
+      "start_index": 706,
+      "end_index": 725,
+      "peak_index": 708
+    },
+    "metadata": {
+      "source_file": "farm5_results.csv",
+      "processing_date": "2025-03-09 19:41:09",
+      "sampling_rate": 44.32885645524416,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012252042007001166,
+      "filter_order": 3,
+      "detection_threshold": 0.32801860667529525,
+      "baseline_threshold": 0.05050106618405333,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7722976089695693
+    }
+  },
+  {
+    "file_name": "farm5_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 20.496,
+      "end_time": 20.902,
+      "peak_time": 20.704,
+      "duration": 0.40600000000000236,
+      "peak_acceleration": 0.469469932077506,
+      "start_index": 929,
+      "end_index": 948,
+      "peak_index": 937
+    },
+    "metadata": {
+      "source_file": "farm5_results.csv",
+      "processing_date": "2025-03-09 19:41:09",
+      "sampling_rate": 44.32885645524416,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012252042007001166,
+      "filter_order": 3,
+      "detection_threshold": 0.32801860667529525,
+      "baseline_threshold": 0.05050106618405333,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7722976089695693
+    }
+  },
+  {
+    "file_name": "farm5_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 26.255,
+      "end_time": 26.677,
+      "peak_time": 26.475,
+      "duration": 0.4220000000000006,
+      "peak_acceleration": 0.5865275339304746,
+      "start_index": 1170,
+      "end_index": 1190,
+      "peak_index": 1180
+    },
+    "metadata": {
+      "source_file": "farm5_results.csv",
+      "processing_date": "2025-03-09 19:41:09",
+      "sampling_rate": 44.32885645524416,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012252042007001166,
+      "filter_order": 3,
+      "detection_threshold": 0.32801860667529525,
+      "baseline_threshold": 0.05050106618405333,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7722976089695693
+    }
+  },
+  {
+    "file_name": "farm5_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 29.463,
+      "end_time": 29.82,
+      "peak_time": 29.616,
+      "duration": 0.3569999999999993,
+      "peak_acceleration": 0.18392850542917713,
+      "start_index": 1320,
+      "end_index": 1338,
+      "peak_index": 1328
+    },
+    "metadata": {
+      "source_file": "farm5_results.csv",
+      "processing_date": "2025-03-09 19:41:09",
+      "sampling_rate": 44.32885645524416,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012252042007001166,
+      "filter_order": 3,
+      "detection_threshold": 0.32801860667529525,
+      "baseline_threshold": 0.05050106618405333,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7722976089695693
+    }
+  },
+  {
+    "file_name": "farm5_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 32.027,
+      "end_time": 32.473,
+      "peak_time": 32.129,
+      "duration": 0.44599999999999795,
+      "peak_acceleration": 0.45566176274070264,
+      "start_index": 1441,
+      "end_index": 1455,
+      "peak_index": 1447
+    },
+    "metadata": {
+      "source_file": "farm5_results.csv",
+      "processing_date": "2025-03-09 19:41:09",
+      "sampling_rate": 44.32885645524416,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.012252042007001166,
+      "filter_order": 3,
+      "detection_threshold": 0.32801860667529525,
+      "baseline_threshold": 0.05050106618405333,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.7722976089695693
+    }
+  },
+  {
+    "file_name": "farm6_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 0.016,
+      "end_time": 0.588,
+      "peak_time": 0.016,
+      "duration": 0.572,
+      "peak_acceleration": 1.7286632272786515,
+      "start_index": 1,
+      "end_index": 23,
+      "peak_index": 1
+    },
+    "metadata": {
+      "source_file": "farm6_results.csv",
+      "processing_date": "2025-03-09 19:42:44",
+      "sampling_rate": 44.477543538038496,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010813594232749742,
+      "filter_order": 3,
+      "detection_threshold": 0.3193985397009754,
+      "baseline_threshold": 0.03805519385490638,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.751609202646531
+    }
+  },
+  {
+    "file_name": "farm6_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 7.292,
+      "end_time": 7.85,
+      "peak_time": 7.519,
+      "duration": 0.5579999999999998,
+      "peak_acceleration": 0.45757753790621014,
+      "start_index": 328,
+      "end_index": 355,
+      "peak_index": 339
+    },
+    "metadata": {
+      "source_file": "farm6_results.csv",
+      "processing_date": "2025-03-09 19:42:44",
+      "sampling_rate": 44.477543538038496,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010813594232749742,
+      "filter_order": 3,
+      "detection_threshold": 0.3193985397009754,
+      "baseline_threshold": 0.03805519385490638,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.751609202646531
+    }
+  },
+  {
+    "file_name": "farm6_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 14.751,
+      "end_time": 15.126,
+      "peak_time": 15.076,
+      "duration": 0.375,
+      "peak_acceleration": 0.22991030794899392,
+      "start_index": 680,
+      "end_index": 696,
+      "peak_index": 694
+    },
+    "metadata": {
+      "source_file": "farm6_results.csv",
+      "processing_date": "2025-03-09 19:42:44",
+      "sampling_rate": 44.477543538038496,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010813594232749742,
+      "filter_order": 3,
+      "detection_threshold": 0.3193985397009754,
+      "baseline_threshold": 0.03805519385490638,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.751609202646531
+    }
+  },
+  {
+    "file_name": "farm6_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 19.905,
+      "end_time": 20.496,
+      "peak_time": 20.051,
+      "duration": 0.5909999999999975,
+      "peak_acceleration": 0.5748825974603374,
+      "start_index": 904,
+      "end_index": 930,
+      "peak_index": 911
+    },
+    "metadata": {
+      "source_file": "farm6_results.csv",
+      "processing_date": "2025-03-09 19:42:44",
+      "sampling_rate": 44.477543538038496,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010813594232749742,
+      "filter_order": 3,
+      "detection_threshold": 0.3193985397009754,
+      "baseline_threshold": 0.03805519385490638,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.751609202646531
+    }
+  },
+  {
+    "file_name": "farm6_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 25.485,
+      "end_time": 25.771,
+      "peak_time": 25.523,
+      "duration": 0.28600000000000136,
+      "peak_acceleration": 0.47100540757026343,
+      "start_index": 1148,
+      "end_index": 1162,
+      "peak_index": 1150
+    },
+    "metadata": {
+      "source_file": "farm6_results.csv",
+      "processing_date": "2025-03-09 19:42:44",
+      "sampling_rate": 44.477543538038496,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010813594232749742,
+      "filter_order": 3,
+      "detection_threshold": 0.3193985397009754,
+      "baseline_threshold": 0.03805519385490638,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.751609202646531
+    }
+  },
+  {
+    "file_name": "farm6_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 36.45,
+      "end_time": 36.971,
+      "peak_time": 36.716,
+      "duration": 0.5209999999999937,
+      "peak_acceleration": 0.46979687126809777,
+      "start_index": 1623,
+      "end_index": 1644,
+      "peak_index": 1633
+    },
+    "metadata": {
+      "source_file": "farm6_results.csv",
+      "processing_date": "2025-03-09 19:42:44",
+      "sampling_rate": 44.477543538038496,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": true,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.010813594232749742,
+      "filter_order": 3,
+      "detection_threshold": 0.3193985397009754,
+      "baseline_threshold": 0.03805519385490638,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.751609202646531
+    }
+  },
+  {
+    "file_name": "farm7_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 7.538,
+      "end_time": 7.985,
+      "peak_time": 7.572,
+      "duration": 0.44700000000000006,
+      "peak_acceleration": 0.531783083577254,
+      "start_index": 344,
+      "end_index": 362,
+      "peak_index": 346
+    },
+    "metadata": {
+      "source_file": "farm7_results.csv",
+      "processing_date": "2025-03-09 19:43:11",
+      "sampling_rate": 46.367557006361835,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01694915254237288,
+      "filter_order": 2,
+      "detection_threshold": 0.5309896747023537,
+      "baseline_threshold": 0.04112396267897865,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.580952380952381
+    }
+  },
+  {
+    "file_name": "farm7_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 11.595,
+      "end_time": 12.013,
+      "peak_time": 11.735,
+      "duration": 0.41799999999999926,
+      "peak_acceleration": 0.5311427493491296,
+      "start_index": 525,
+      "end_index": 546,
+      "peak_index": 532
+    },
+    "metadata": {
+      "source_file": "farm7_results.csv",
+      "processing_date": "2025-03-09 19:43:11",
+      "sampling_rate": 46.367557006361835,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01694915254237288,
+      "filter_order": 2,
+      "detection_threshold": 0.5309896747023537,
+      "baseline_threshold": 0.04112396267897865,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.580952380952381
+    }
+  },
+  {
+    "file_name": "farm7_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 16.846,
+      "end_time": 17.326,
+      "peak_time": 16.894,
+      "duration": 0.4800000000000004,
+      "peak_acceleration": 0.5016481264957158,
+      "start_index": 765,
+      "end_index": 789,
+      "peak_index": 768
+    },
+    "metadata": {
+      "source_file": "farm7_results.csv",
+      "processing_date": "2025-03-09 19:43:11",
+      "sampling_rate": 46.367557006361835,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01694915254237288,
+      "filter_order": 2,
+      "detection_threshold": 0.5309896747023537,
+      "baseline_threshold": 0.04112396267897865,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.580952380952381
+    }
+  },
+  {
+    "file_name": "farm7_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 23.033,
+      "end_time": 23.435,
+      "peak_time": 23.085,
+      "duration": 0.40199999999999747,
+      "peak_acceleration": 0.7833564556901402,
+      "start_index": 1057,
+      "end_index": 1077,
+      "peak_index": 1059
+    },
+    "metadata": {
+      "source_file": "farm7_results.csv",
+      "processing_date": "2025-03-09 19:43:11",
+      "sampling_rate": 46.367557006361835,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01694915254237288,
+      "filter_order": 2,
+      "detection_threshold": 0.5309896747023537,
+      "baseline_threshold": 0.04112396267897865,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.580952380952381
+    }
+  },
+  {
+    "file_name": "farm7_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 28.973,
+      "end_time": 29.386,
+      "peak_time": 29.111,
+      "duration": 0.41300000000000026,
+      "peak_acceleration": 0.5729200592316798,
+      "start_index": 1335,
+      "end_index": 1355,
+      "peak_index": 1342
+    },
+    "metadata": {
+      "source_file": "farm7_results.csv",
+      "processing_date": "2025-03-09 19:43:11",
+      "sampling_rate": 46.367557006361835,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01694915254237288,
+      "filter_order": 2,
+      "detection_threshold": 0.5309896747023537,
+      "baseline_threshold": 0.04112396267897865,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.580952380952381
+    }
+  },
+  {
+    "file_name": "farm7_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 34.439,
+      "end_time": 34.897,
+      "peak_time": 34.507,
+      "duration": 0.4579999999999984,
+      "peak_acceleration": 0.5175692101423575,
+      "start_index": 1588,
+      "end_index": 1611,
+      "peak_index": 1592
+    },
+    "metadata": {
+      "source_file": "farm7_results.csv",
+      "processing_date": "2025-03-09 19:43:11",
+      "sampling_rate": 46.367557006361835,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.01694915254237288,
+      "filter_order": 2,
+      "detection_threshold": 0.5309896747023537,
+      "baseline_threshold": 0.04112396267897865,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.580952380952381
+    }
+  },
+  {
+    "file_name": "farm8_results",
+    "rep_number": 1,
+    "concentric_phase": {
+      "start_time": 4.891,
+      "end_time": 5.397,
+      "peak_time": 4.931,
+      "duration": 0.5060000000000002,
+      "peak_acceleration": 0.6292187228368702,
+      "start_index": 218,
+      "end_index": 237,
+      "peak_index": 220
+    },
+    "metadata": {
+      "source_file": "farm8_results.csv",
+      "processing_date": "2025-03-09 19:43:27",
+      "sampling_rate": 44.056563088725966,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.021627188465499485,
+      "filter_order": 3,
+      "detection_threshold": 0.5821654319480555,
+      "baseline_threshold": 0.05259476887632,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6714684526812658
+    }
+  },
+  {
+    "file_name": "farm8_results",
+    "rep_number": 2,
+    "concentric_phase": {
+      "start_time": 11.081,
+      "end_time": 11.531,
+      "peak_time": 11.259,
+      "duration": 0.45000000000000107,
+      "peak_acceleration": 0.47571561912118104,
+      "start_index": 495,
+      "end_index": 518,
+      "peak_index": 504
+    },
+    "metadata": {
+      "source_file": "farm8_results.csv",
+      "processing_date": "2025-03-09 19:43:27",
+      "sampling_rate": 44.056563088725966,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.021627188465499485,
+      "filter_order": 3,
+      "detection_threshold": 0.5821654319480555,
+      "baseline_threshold": 0.05259476887632,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6714684526812658
+    }
+  },
+  {
+    "file_name": "farm8_results",
+    "rep_number": 3,
+    "concentric_phase": {
+      "start_time": 17.452,
+      "end_time": 17.874,
+      "peak_time": 17.588,
+      "duration": 0.42199999999999704,
+      "peak_acceleration": 0.6258623195720396,
+      "start_index": 785,
+      "end_index": 803,
+      "peak_index": 792
+    },
+    "metadata": {
+      "source_file": "farm8_results.csv",
+      "processing_date": "2025-03-09 19:43:27",
+      "sampling_rate": 44.056563088725966,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.021627188465499485,
+      "filter_order": 3,
+      "detection_threshold": 0.5821654319480555,
+      "baseline_threshold": 0.05259476887632,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6714684526812658
+    }
+  },
+  {
+    "file_name": "farm8_results",
+    "rep_number": 4,
+    "concentric_phase": {
+      "start_time": 23.796,
+      "end_time": 24.277,
+      "peak_time": 23.947,
+      "duration": 0.48100000000000165,
+      "peak_acceleration": 0.6128057178400584,
+      "start_index": 1062,
+      "end_index": 1084,
+      "peak_index": 1070
+    },
+    "metadata": {
+      "source_file": "farm8_results.csv",
+      "processing_date": "2025-03-09 19:43:27",
+      "sampling_rate": 44.056563088725966,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.021627188465499485,
+      "filter_order": 3,
+      "detection_threshold": 0.5821654319480555,
+      "baseline_threshold": 0.05259476887632,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6714684526812658
+    }
+  },
+  {
+    "file_name": "farm8_results",
+    "rep_number": 5,
+    "concentric_phase": {
+      "start_time": 30.351,
+      "end_time": 30.767,
+      "peak_time": 30.52,
+      "duration": 0.41600000000000037,
+      "peak_acceleration": 0.7200899369981346,
+      "start_index": 1346,
+      "end_index": 1366,
+      "peak_index": 1354
+    },
+    "metadata": {
+      "source_file": "farm8_results.csv",
+      "processing_date": "2025-03-09 19:43:27",
+      "sampling_rate": 44.056563088725966,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.021627188465499485,
+      "filter_order": 3,
+      "detection_threshold": 0.5821654319480555,
+      "baseline_threshold": 0.05259476887632,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6714684526812658
+    }
+  },
+  {
+    "file_name": "farm8_results",
+    "rep_number": 6,
+    "concentric_phase": {
+      "start_time": 37.151,
+      "end_time": 37.578,
+      "peak_time": 37.422,
+      "duration": 0.4269999999999996,
+      "peak_acceleration": 0.6027070495094822,
+      "start_index": 1646,
+      "end_index": 1665,
+      "peak_index": 1658
+    },
+    "metadata": {
+      "source_file": "farm8_results.csv",
+      "processing_date": "2025-03-09 19:43:27",
+      "sampling_rate": 44.056563088725966,
+      "acceleration_column": "raw_vertical_accel",
+      "signal_inverted": false,
+      "filter_type": "savgol",
+      "cutoff_frequency": 0.021627188465499485,
+      "filter_order": 3,
+      "detection_threshold": 0.5821654319480555,
+      "baseline_threshold": 0.05259476887632,
+      "min_duration": 0.05144999999999999,
+      "max_duration": 2.5,
+      "orientation_confidence": 0.6714684526812658
+    }
+  }
+]
