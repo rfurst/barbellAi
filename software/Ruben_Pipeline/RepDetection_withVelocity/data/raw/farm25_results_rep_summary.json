@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "source_file": "farm25_results.csv",
+    "processing_date": "2025-03-10 11:34:06",
+    "sampling_rate": 48.08163500619757,
+    "acceleration_column": "raw_vertical_accel",
+    "signal_inverted": false,
+    "filter_type": "savgol",
+    "cutoff_frequency": 0.012582384661473937,
+    "filter_order": 3,
+    "detection_threshold": 0.6058342375939061,
+    "baseline_threshold": 0.05781960774813346,
+    "min_duration": 0.05144999999999999,
+    "max_duration": 2.5,
+    "orientation_confidence": 0.7207904745592945
+  },
+  "repetitions": [
+    {
+      "rep_number": 1,
+      "concentric_phase": {
+        "start_time": 3.049,
+        "end_time": 3.525,
+        "peak_time": 3.234,
+        "duration": 0.476,
+        "peak_acceleration": 0.5014833939757605,
+        "start_index": 154,
+        "end_index": 178,
+        "peak_index": 163
+      },
+      "data_indices": {
+        "start": 154,
+        "end": 178
+      }
+    },
+    {
+      "rep_number": 2,
+      "concentric_phase": {
+        "start_time": 9.415,
+        "end_time": 9.934,
+        "peak_time": 9.485,
+        "duration": 0.5190000000000001,
+        "peak_acceleration": 0.44358308567421684,
+        "start_index": 469,
+        "end_index": 496,
+        "peak_index": 473
+      },
+      "data_indices": {
+        "start": 469,
+        "end": 496
+      }
+    },
+    {
+      "rep_number": 3,
+      "concentric_phase": {
+        "start_time": 21.595,
+        "end_time": 22.195,
+        "peak_time": 21.733,
+        "duration": 0.6000000000000014,
+        "peak_acceleration": 0.6170373108057771,
+        "start_index": 1044,
+        "end_index": 1074,
+        "peak_index": 1050
+      },
+      "data_indices": {
+        "start": 1044,
+        "end": 1074
+      }
+    },
+    {
+      "rep_number": 4,
+      "concentric_phase": {
+        "start_time": 27.048,
+        "end_time": 27.66,
+        "peak_time": 27.277,
+        "duration": 0.6120000000000019,
+        "peak_acceleration": 0.4648574286050637,
+        "start_index": 1298,
+        "end_index": 1326,
+        "peak_index": 1309
+      },
+      "data_indices": {
+        "start": 1298,
+        "end": 1326
+      }
+    }
+  ]
+}

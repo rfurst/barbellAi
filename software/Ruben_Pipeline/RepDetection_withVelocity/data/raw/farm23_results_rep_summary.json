@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "source_file": "farm23_results.csv",
+    "processing_date": "2025-03-10 11:32:12",
+    "sampling_rate": 39.059572873735476,
+    "acceleration_column": "raw_vertical_accel",
+    "signal_inverted": false,
+    "filter_type": "savgol",
+    "cutoff_frequency": 0.011505273250239693,
+    "filter_order": 3,
+    "detection_threshold": 0.5426775619565986,
+    "baseline_threshold": 0.03407950135989261,
+    "min_duration": 0.06859999999999998,
+    "max_duration": 2.5,
+    "orientation_confidence": 0.8046627407904988
+  },
+  "repetitions": [
+    {
+      "rep_number": 1,
+      "concentric_phase": {
+        "start_time": 3.493,
+        "end_time": 4.179,
+        "peak_time": 3.613,
+        "duration": 0.6860000000000004,
+        "peak_acceleration": 0.5712395389016827,
+        "start_index": 142,
+        "end_index": 166,
+        "peak_index": 147
+      },
+      "data_indices": {
+        "start": 142,
+        "end": 166
+      }
+    },
+    {
+      "rep_number": 2,
+      "concentric_phase": {
+        "start_time": 11.534,
+        "end_time": 12.085,
+        "peak_time": 11.672,
+        "duration": 0.5510000000000002,
+        "peak_acceleration": 0.5326588842340432,
+        "start_index": 434,
+        "end_index": 455,
+        "peak_index": 439
+      },
+      "data_indices": {
+        "start": 434,
+        "end": 455
+      }
+    },
+    {
+      "rep_number": 3,
+      "concentric_phase": {
+        "start_time": 18.403,
+        "end_time": 18.812,
+        "peak_time": 18.489,
+        "duration": 0.4090000000000025,
+        "peak_acceleration": 0.7671995335624631,
+        "start_index": 645,
+        "end_index": 664,
+        "peak_index": 649
+      },
+      "data_indices": {
+        "start": 645,
+        "end": 664
+      }
+    },
+    {
+      "rep_number": 4,
+      "concentric_phase": {
+        "start_time": 25.51,
+        "end_time": 25.844,
+        "peak_time": 25.571,
+        "duration": 0.33399999999999963,
+        "peak_acceleration": 0.5174917897637775,
+        "start_index": 937,
+        "end_index": 950,
+        "peak_index": 940
+      },
+      "data_indices": {
+        "start": 937,
+        "end": 950
+      }
+    },
+    {
+      "rep_number": 5,
+      "concentric_phase": {
+        "start_time": 32.785,
+        "end_time": 33.332,
+        "peak_time": 33.007,
+        "duration": 0.5470000000000041,
+        "peak_acceleration": 0.48168890037541656,
+        "start_index": 1231,
+        "end_index": 1246,
+        "peak_index": 1235
+      },
+      "data_indices": {
+        "start": 1231,
+        "end": 1246
+      }
+    },
+    {
+      "rep_number": 6,
+      "concentric_phase": {
+        "start_time": 39.427,
+        "end_time": 39.943,
+        "peak_time": 39.501,
+        "duration": 0.5159999999999982,
+        "peak_acceleration": 0.5113755123887962,
+        "start_index": 1478,
+        "end_index": 1500,
+        "peak_index": 1482
+      },
+      "data_indices": {
+        "start": 1478,
+        "end": 1500
+      }
+    },
+    {
+      "rep_number": 7,
+      "concentric_phase": {
+        "start_time": 45.795,
+        "end_time": 46.213,
+        "peak_time": 45.877,
+        "duration": 0.41799999999999926,
+        "peak_acceleration": 0.7877205710599785,
+        "start_index": 1775,
+        "end_index": 1791,
+        "peak_index": 1780
+      },
+      "data_indices": {
+        "start": 1775,
+        "end": 1791
+      }
+    }
+  ]
+}

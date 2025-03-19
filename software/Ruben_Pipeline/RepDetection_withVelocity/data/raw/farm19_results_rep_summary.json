@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "source_file": "farm19_results.csv",
+    "processing_date": "2025-03-10 11:28:27",
+    "sampling_rate": 23.677594787337746,
+    "acceleration_column": "raw_vertical_accel",
+    "signal_inverted": false,
+    "filter_type": "savgol",
+    "cutoff_frequency": 0.0551948051948052,
+    "filter_order": 3,
+    "detection_threshold": 0.37531631181586206,
+    "baseline_threshold": 0.04833093331228148,
+    "min_duration": 0.2,
+    "max_duration": 2.5,
+    "orientation_confidence": 0.6590639602700583
+  },
+  "repetitions": [
+    {
+      "rep_number": 1,
+      "concentric_phase": {
+        "start_time": 4.554,
+        "end_time": 4.929,
+        "peak_time": 4.64,
+        "duration": 0.375,
+        "peak_acceleration": 0.7303054300661833,
+        "start_index": 152,
+        "end_index": 166,
+        "peak_index": 155
+      },
+      "data_indices": {
+        "start": 152,
+        "end": 166
+      }
+    },
+    {
+      "rep_number": 2,
+      "concentric_phase": {
+        "start_time": 10.625,
+        "end_time": 11.046,
+        "peak_time": 10.653,
+        "duration": 0.4209999999999994,
+        "peak_acceleration": 0.39506980191143376,
+        "start_index": 298,
+        "end_index": 306,
+        "peak_index": 299
+      },
+      "data_indices": {
+        "start": 298,
+        "end": 306
+      }
+    },
+    {
+      "rep_number": 3,
+      "concentric_phase": {
+        "start_time": 17.137,
+        "end_time": 17.704,
+        "peak_time": 17.392,
+        "duration": 0.5670000000000002,
+        "peak_acceleration": 0.43901327354375785,
+        "start_index": 452,
+        "end_index": 465,
+        "peak_index": 456
+      },
+      "data_indices": {
+        "start": 452,
+        "end": 465
+      }
+    },
+    {
+      "rep_number": 4,
+      "concentric_phase": {
+        "start_time": 25.316,
+        "end_time": 25.931,
+        "peak_time": 25.406,
+        "duration": 0.615000000000002,
+        "peak_acceleration": 0.44876970156106694,
+        "start_index": 636,
+        "end_index": 648,
+        "peak_index": 638
+      },
+      "data_indices": {
+        "start": 636,
+        "end": 648
+      }
+    },
+    {
+      "rep_number": 5,
+      "concentric_phase": {
+        "start_time": 32.43,
+        "end_time": 32.738,
+        "peak_time": 32.447,
+        "duration": 0.30799999999999983,
+        "peak_acceleration": 0.44358469359903074,
+        "start_index": 785,
+        "end_index": 793,
+        "peak_index": 786
+      },
+      "data_indices": {
+        "start": 785,
+        "end": 793
+      }
+    }
+  ]
+}
