@@ -1,0 +1,140 @@
+{
+  "calculation_date": "2025-03-13 21:45:33",
+  "use_ml_model": true,
+  "adjustment_factor": 0.85,
+  "repetitions": [
+    {
+      "file_name": 1,
+      "rep_number": 1,
+      "metrics": {
+        "peak_velocity": 1.401478794509737,
+        "peak_velocity_time": 9.23,
+        "peak_velocity_index": 6,
+        "mean_velocity": 0.4184180943127183,
+        "time_to_peak_velocity": 0.18200000000000038,
+        "percent_of_phase_to_peak": 33.89199255121045,
+        "traditional_peak_velocity": 0.12385458866396362,
+        "ml_peak_velocity": 1.401478794509737,
+        "rate_of_velocity_development": 7.70043293686667,
+        "velocity_consistency": 0.4295021517790018,
+        "velocity_at_25_percent": 1.0327343064821413,
+        "velocity_at_50_percent": 1.126939877675446,
+        "velocity_at_75_percent": -0.08324579826908528
+      }
+    },
+    {
+      "file_name": 2,
+      "rep_number": 2,
+      "metrics": {
+        "peak_velocity": 1.294283264725528,
+        "peak_velocity_time": 13.738,
+        "peak_velocity_index": 22,
+        "mean_velocity": 0.5776171701856021,
+        "time_to_peak_velocity": 0.42799999999999905,
+        "percent_of_phase_to_peak": 83.59375000000003,
+        "traditional_peak_velocity": 0.6924955897498489,
+        "ml_peak_velocity": 1.294283264725528,
+        "rate_of_velocity_development": 3.024026319452175,
+        "velocity_consistency": 0.5447427224628767,
+        "velocity_at_25_percent": 0.21143209182468883,
+        "velocity_at_50_percent": 0.6433173652140238,
+        "velocity_at_75_percent": 1.2096387095445333
+      }
+    },
+    {
+      "file_name": 3,
+      "rep_number": 3,
+      "metrics": {
+        "peak_velocity": 1.1858293877748434,
+        "peak_velocity_time": 18.6,
+        "peak_velocity_index": 21,
+        "mean_velocity": 0.5949362821666173,
+        "time_to_peak_velocity": 0.4670000000000023,
+        "percent_of_phase_to_peak": 82.36331569664941,
+        "traditional_peak_velocity": 0.3543542248222249,
+        "ml_peak_velocity": 1.1858293877748434,
+        "rate_of_velocity_development": 2.539249224357254,
+        "velocity_consistency": 0.45420588037659854,
+        "velocity_at_25_percent": 0.1896423478360461,
+        "velocity_at_50_percent": 0.7231902107045671,
+        "velocity_at_75_percent": 1.1771743028084767
+      }
+    },
+    {
+      "file_name": 4,
+      "rep_number": 4,
+      "metrics": {
+        "peak_velocity": 1.0009030697141135,
+        "peak_velocity_time": 24.317,
+        "peak_velocity_index": 15,
+        "mean_velocity": 0.5553616781616185,
+        "time_to_peak_velocity": 0.3829999999999991,
+        "percent_of_phase_to_peak": 81.48936170212767,
+        "traditional_peak_velocity": 0.43516196718780953,
+        "ml_peak_velocity": 1.0009030697141135,
+        "rate_of_velocity_development": 2.613323941812313,
+        "velocity_consistency": 0.3846853056676479,
+        "velocity_at_25_percent": 0.2107983064029668,
+        "velocity_at_50_percent": 0.6391860401044596,
+        "velocity_at_75_percent": 0.9633281682559929
+      }
+    },
+    {
+      "file_name": 5,
+      "rep_number": 5,
+      "metrics": {
+        "peak_velocity": 0.9887948528845358,
+        "peak_velocity_time": 29.409,
+        "peak_velocity_index": 20,
+        "mean_velocity": 0.4384697954722372,
+        "time_to_peak_velocity": 0.44299999999999784,
+        "percent_of_phase_to_peak": 78.26855123674889,
+        "traditional_peak_velocity": 0.93077678193547,
+        "ml_peak_velocity": 0.9887948528845358,
+        "rate_of_velocity_development": 2.232042557301446,
+        "velocity_consistency": 0.5559285783520177,
+        "velocity_at_25_percent": 0.14926954621503424,
+        "velocity_at_50_percent": 0.5418962791809377,
+        "velocity_at_75_percent": 0.92775394069681
+      }
+    },
+    {
+      "file_name": 6,
+      "rep_number": 6,
+      "metrics": {
+        "peak_velocity": 1.0738250683863972,
+        "peak_velocity_time": 34.497,
+        "peak_velocity_index": 24,
+        "mean_velocity": 0.5732751014039352,
+        "time_to_peak_velocity": 0.517000000000003,
+        "percent_of_phase_to_peak": 83.79254457050232,
+        "traditional_peak_velocity": 0.5421111143270029,
+        "ml_peak_velocity": 1.0738250683863972,
+        "rate_of_velocity_development": 2.0770310800510465,
+        "velocity_consistency": 0.3625868776468255,
+        "velocity_at_25_percent": 0.19084797368564962,
+        "velocity_at_50_percent": 0.6301619662834156,
+        "velocity_at_75_percent": 1.0013140534881775
+      }
+    },
+    {
+      "file_name": 7,
+      "rep_number": 7,
+      "metrics": {
+        "peak_velocity": 1.1476709852033322,
+        "peak_velocity_time": 40.623,
+        "peak_velocity_index": 22,
+        "mean_velocity": 0.5468343399057148,
+        "time_to_peak_velocity": 0.4409999999999954,
+        "percent_of_phase_to_peak": 81.36531365313651,
+        "traditional_peak_velocity": 0.9152115305546848,
+        "ml_peak_velocity": 1.1476709852033322,
+        "rate_of_velocity_development": 2.602428537876064,
+        "velocity_consistency": 0.4540409651134806,
+        "velocity_at_25_percent": 0.17976928504597645,
+        "velocity_at_50_percent": 0.6798378133949053,
+        "velocity_at_75_percent": 1.0666056155630834
+      }
+    }
+  ]
+}
