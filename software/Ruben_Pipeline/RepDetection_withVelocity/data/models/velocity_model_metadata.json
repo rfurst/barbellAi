@@ -1,0 +1,93 @@
+{
+  "metrics": {
+    "mse": 0.011864219610721405,
+    "rmse": 0.10892299853897433,
+    "mae": 0.0949275945645809,
+    "r2": 0.06309631130840299
+  },
+  "cv_results": {
+    "mse": {
+      "mean": 0.012199013339255457,
+      "std": 0.002484977641729189
+    },
+    "mae": {
+      "mean": 0.08890318714545405,
+      "std": 0.011226387962989056
+    },
+    "r2": {
+      "mean": -0.030228844301069403,
+      "std": 0.14772569979231356
+    },
+    "rmse": {
+      "mean": 0.10984833464285268,
+      "std": 0.011504638866444488
+    }
+  },
+  "feature_importance": {
+    "acc_mean": 0.2652764974013369,
+    "acc_impulse": 0.09649718472369538,
+    "spectral_bandwidth": 0.0683778548596606,
+    "energy_ratio": 0.06295534873042292,
+    "first_half_energy": 0.0602297635132384,
+    "acc_skewness": 0.05504012650111061,
+    "curve_symmetry": 0.04752859329031721,
+    "acc_kurtosis": 0.04658805533131415,
+    "spectral_centroid": 0.04253998965706596,
+    "peak_time_ratio": 0.036151499482440626,
+    "peak_width_ratio": 0.03592025572461913,
+    "second_half_energy": 0.02973280496732362,
+    "pos_acc_ratio": 0.02791780711229883,
+    "phase_duration": 0.018804124827946713,
+    "acc_min": 0.016109126128772352,
+    "time_to_peak": 0.013033958642257494,
+    "spectral_roll_off": 0.012719774370513966,
+    "jerk_max": 0.010225004551554404,
+    "first_zero_crossing_time": 0.00984058236579442,
+    "pos_acc_mean": 0.009089531964925918,
+    "acc_std": 0.006239433524582057,
+    "rep_number_norm": 0.005857034714352487,
+    "jerk_std": 0.005182926284464309,
+    "neg_acc_mean": 0.005173248714629041,
+    "jerk_mean": 0.004343699614335548,
+    "acc_max": 0.0033855323481149597,
+    "peak_acc": 0.0033316355045569517,
+    "acc_range": 0.0017840939262367664,
+    "original_peak_acc": 0.00012451122211842706,
+    "zero_crossing_count": 0.0,
+    "dominant_freq": 0.0
+  },
+  "feature_names": [
+    "acc_mean",
+    "acc_std",
+    "acc_min",
+    "acc_max",
+    "acc_range",
+    "acc_skewness",
+    "acc_kurtosis",
+    "peak_acc",
+    "time_to_peak",
+    "peak_time_ratio",
+    "zero_crossing_count",
+    "first_zero_crossing_time",
+    "jerk_mean",
+    "jerk_std",
+    "jerk_max",
+    "acc_impulse",
+    "pos_acc_ratio",
+    "pos_acc_mean",
+    "neg_acc_mean",
+    "dominant_freq",
+    "spectral_centroid",
+    "spectral_bandwidth",
+    "spectral_roll_off",
+    "curve_symmetry",
+    "first_half_energy",
+    "second_half_energy",
+    "energy_ratio",
+    "peak_width_ratio",
+    "rep_number_norm",
+    "phase_duration",
+    "original_peak_acc"
+  ],
+  "n_samples": 149
+}
