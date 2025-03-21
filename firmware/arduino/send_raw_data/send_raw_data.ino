@@ -10,6 +10,9 @@
 #define SERVICE_UUID        "12340000-0000-0000-0000-1234567890AB"
 #define CHARACTERISTIC_UUID "12340001-0000-0000-0000-1234567890AB"
 
+// Use built-in LED for status indication
+#define LED_PIN LED_BUILTIN
+
 // IMU sampling rate (approx). We'll try ~100 Hz in the loop.
 const int SAMPLE_DELAY_US = 10000; // 10 ms = 100 Hz
 
@@ -42,36 +45,79 @@ BLECharacteristic rawDataChar(CHARACTERISTIC_UUID,
 
 unsigned long lastSendMs = 0;
 
-void setup() {
-  Serial.begin(115200);
-  while (!Serial);
+// Status tracking
+bool bleInitialized = false;
+bool imuInitialized = false;
 
-  // Initialize BLE
-  if (!BLE.begin()) {
-    Serial.println("BLE init failed!");
-    while (1);
+void setup() {
+  // Set up LED for status indication
+  pinMode(LED_PIN, OUTPUT);
+  digitalWrite(LED_PIN, HIGH);  // Turn on LED at startup
+  
+  // Initialize Serial (but don't wait for it)
+  Serial.begin(115200);
+  
+  // Add a longer startup delay to ensure stable power
+  delay(2000);
+  
+  // Initialize BLE with multiple retries
+  int retries = 0;
+  while (!BLE.begin() && retries < 10) {
+    delay(500);
+    digitalWrite(LED_PIN, !digitalRead(LED_PIN));  // Toggle LED during retry
+    retries++;
   }
+  
+  if (retries < 10) {
+    bleInitialized = true;
+  }
+  
+  // Configure BLE regardless (attempt to recover)
   BLE.setLocalName("Nano33_RawIMU");
   BLE.setAdvertisedService(rawService);
 
   // Add characteristic to service
   rawService.addCharacteristic(rawDataChar);
+  
   // Add service
   BLE.addService(rawService);
 
   // Start advertising
   BLE.advertise();
-  Serial.println("BLE Advertising...");
-
-  // Initialize IMU
-  if (!IMU.begin()) {
-    Serial.println("Failed to init IMU!");
-    while (1);
+  
+  // Initialize IMU with retries
+  retries = 0;
+  while (!IMU.begin() && retries < 10) {
+    delay(500);
+    digitalWrite(LED_PIN, !digitalRead(LED_PIN));  // Toggle LED during retry
+    retries++;
   }
-  Serial.println("IMU started!");
-
-  // Extra: (Optional) configure IMU settings if needed
-
+  
+  if (retries < 10) {
+    imuInitialized = true;
+  }
+  
+  // Status indicator
+  if (bleInitialized && imuInitialized) {
+    // Both initialized successfully - solid LED
+    digitalWrite(LED_PIN, HIGH);
+  } else if (bleInitialized) {
+    // Only BLE initialized - fast blink
+    for (int i = 0; i < 6; i++) {
+      digitalWrite(LED_PIN, !digitalRead(LED_PIN));
+      delay(100);
+    }
+  } else if (imuInitialized) {
+    // Only IMU initialized - slow blink
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(LED_PIN, !digitalRead(LED_PIN));
+      delay(200);
+    }
+  } else {
+    // Nothing initialized - LED off
+    digitalWrite(LED_PIN, LOW);
+  }
+  
   lastSendMs = millis();
 }
 
@@ -138,14 +184,59 @@ void sendBufferBatch() {
   }
 }
 
+// Attempt to recover BLE if it's not working
+void attemptBLERecovery() {
+  static unsigned long lastRecoveryAttempt = 0;
+  unsigned long now = millis();
+  
+  // Only try recovery every 30 seconds
+  if (now - lastRecoveryAttempt < 30000) {
+    return;
+  }
+  
+  lastRecoveryAttempt = now;
+  
+  // Toggle LED to indicate recovery attempt
+  digitalWrite(LED_PIN, !digitalRead(LED_PIN));
+  
+  // Try to re-initialize BLE
+  BLE.end();
+  delay(500);
+  
+  if (BLE.begin()) {
+    bleInitialized = true;
+    BLE.setLocalName("Nano33_RawIMU");
+    BLE.setAdvertisedService(rawService);
+    BLE.addService(rawService);
+    BLE.advertise();
+    digitalWrite(LED_PIN, HIGH);  // Success indicator
+  } else {
+    digitalWrite(LED_PIN, LOW);   // Failure indicator
+  }
+}
+
 void loop() {
-  // Service BLE connections
-  BLEDevice central = BLE.central();
+  // Check if BLE is still working, attempt recovery if needed
+  if (!bleInitialized) {
+    attemptBLERecovery();
+  } else {
+    // Service BLE connections
+    BLEDevice central = BLE.central();
+    
+    // If central connected, blink LED
+    static unsigned long lastBlink = 0;
+    if (central && central.connected()) {
+      if (millis() - lastBlink > 1000) {
+        digitalWrite(LED_PIN, !digitalRead(LED_PIN));
+        lastBlink = millis();
+      }
+    }
+  }
 
   // 1) Sample the IMU at ~100 Hz (block or time check).
   static unsigned long lastSampleMicros = 0;
   unsigned long nowMicros = micros();
-  if (nowMicros - lastSampleMicros >= SAMPLE_DELAY_US) {
+  if (nowMicros - lastSampleMicros >= SAMPLE_DELAY_US && imuInitialized) {
     lastSampleMicros = nowMicros;
 
     // read IMU
@@ -159,9 +250,9 @@ void loop() {
     }
   }
 
-  // 2) Every 10 ms, send all queued samples in one notification
+  // 2) Every 10 ms, send all queued samples in one notification if BLE is working
   unsigned long nowMs = millis();
-  if (nowMs - lastSendMs >= SEND_INTERVAL_MS) {
+  if (nowMs - lastSendMs >= SEND_INTERVAL_MS && bleInitialized) {
     lastSendMs = nowMs;
     sendBufferBatch();
   }
